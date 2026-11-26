@@ -37,6 +37,3906 @@
       },
       "path": "positions/bilibili-operator.md",
       "sha256": "a76527325334b6f668885024c955c607a8b77e4ee03c737238b0cf304e74e6e3"
+    },
+    {
+      "id": "anthropologist",
+      "name": "人类学家",
+      "description": "负责分析一个文化体系内部如何自洽运转：生计方式、亲属制度、交换方式、权力结构、仪式与信仰之间怎样互相支撑。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "academic/academic-anthropologist.md"
+      },
+      "path": "positions/anthropologist.md",
+      "sha256": "2edef15eae61d3d996958ef06b4f91f13050fa43b54f4735de8949a8c00e22ae"
+    },
+    {
+      "id": "geographer",
+      "name": "地理学家",
+      "description": "负责检查一个世界或区域在物理上是否说得通：地形、气候、水文、资源分布与聚落位置之间的因果链是否闭合。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "academic/academic-geographer.md"
+      },
+      "path": "positions/geographer.md",
+      "sha256": "aab97f23d48c5a8ae2a6cfb4fe9ebb6cb635d73ac44850e0caa28976eba65190"
+    },
+    {
+      "id": "historian",
+      "name": "历史学家",
+      "description": "负责为一个设定或一项历史主张核定年代坐标与真实度。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "academic/academic-historian.md"
+      },
+      "path": "positions/historian.md",
+      "sha256": "ae371eade94084e28e4028a902b414287770c876bb8ccbdc0138924376d9f278"
+    },
+    {
+      "id": "narratologist",
+      "name": "叙事学家",
+      "description": "负责诊断故事的结构问题：核心理念是否成立、张力曲线在哪里塌陷、人物弧线是否闭合、埋下的承诺有没有兑现。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "academic/academic-narratologist.md"
+      },
+      "path": "positions/narratologist.md",
+      "sha256": "8dfa0dcf6484e5ae2babb2b4da3203e4eea23c688c320e3001db2e4daedfad8a"
+    },
+    {
+      "id": "psychologist",
+      "name": "心理学家",
+      "description": "负责解释人物在特定情境下为什么会这样反应，以及他自己给出的理由和真实动机差在哪里。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "academic/academic-psychologist.md"
+      },
+      "path": "positions/psychologist.md",
+      "sha256": "fc71b7afa4deeac42dcc46f199889dd6ed7ac41aee3732e125bae219843409ad"
+    },
+    {
+      "id": "statistician",
+      "name": "统计学家",
+      "description": "负责判断一项定量结论到底能支撑多少决策：这个数字怎么测出来的、和什么比较、偶然与偏差有多容易造出它。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "academic/academic-statistician.md"
+      },
+      "path": "positions/statistician.md",
+      "sha256": "c0b180262ecf49fa2ce635172d816ab0cf4f34ba2e166ea7d57dd5638bae72c8"
+    },
+    {
+      "id": "study-planner",
+      "name": "学习规划师",
+      "description": "负责把“想考上”变成一份能逐日执行、能每周检验、能随时调整的备考方案。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "academic/academic-study-planner.md"
+      },
+      "path": "positions/study-planner.md",
+      "sha256": "a565257ab07567e701f4cb31483e7773770e8a10f9e19e83e102edc0dd7e262f"
+    },
+    {
+      "id": "chief-executive-officer",
+      "name": "首席执行官",
+      "description": "负责把“要做的事”收敛成组织真正能执行的少数几件，并对结果负最终责任。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "company/chief-executive-officer.md"
+      },
+      "path": "positions/chief-executive-officer.md",
+      "sha256": "8ba64f4c59d893df554cc169da9a53831b3f8a53bff069e93a6897d2059316ca"
+    },
+    {
+      "id": "chief-technology-officer",
+      "name": "首席技术官",
+      "description": "负责让每一笔技术投入对准业务杠杆，并在业务速度与工程质量之间做显式权衡。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "company/chief-technology-officer.md"
+      },
+      "path": "positions/chief-technology-officer.md",
+      "sha256": "4078c888c4478c60803ab32d37ca79af4142cf79f1effc440906555433579e1f"
+    },
+    {
+      "id": "chief-product-officer",
+      "name": "首席产品官",
+      "description": "负责裁决“做什么、不做什么、按什么顺序做”。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "company/chief-product-officer.md"
+      },
+      "path": "positions/chief-product-officer.md",
+      "sha256": "df9c413c78905c57a33c3749b8c3dca7c6caeb6a739f0b166bb4db9d8c6b17bf"
+    },
+    {
+      "id": "chief-marketing-officer",
+      "name": "首席营销官",
+      "description": "负责先把定位立住，再让每一笔营销预算进对的账。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "company/chief-marketing-officer.md"
+      },
+      "path": "positions/chief-marketing-officer.md",
+      "sha256": "34186e1dd96e28338b3f79d9da44cc25ced9e20b6d08904dc11d8c3dfdeea4c0"
+    },
+    {
+      "id": "chief-operating-officer",
+      "name": "首席运营官",
+      "description": "负责把战略翻译成默认会发生的事：目标拆到周、指标落到看板、责任人定到个人、检查节奏排进日程，并处理流程里的摩擦和例外。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "company/chief-operating-officer.md"
+      },
+      "path": "positions/chief-operating-officer.md",
+      "sha256": "b74990125a06ced9b91ce2ac1032937c6a5f90cdbf0cc3afe07ab0b3e6c40227"
+    },
+    {
+      "id": "chief-financial-officer",
+      "name": "首席财务官",
+      "description": "负责守住现金与偿债安全，并让每一块资本流向风险调整后回报最高的用途。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "company/chief-financial-officer.md"
+      },
+      "path": "positions/chief-financial-officer.md",
+      "sha256": "d0bd8d018215c09f4a1e0bbf507041fb059f541310257892bdae994decaf8cf1"
+    },
+    {
+      "id": "chief-of-staff",
+      "name": "幕僚长",
+      "description": "负责把主理人盘子里的事务接过来，让决策者保留清晰思考的空间。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "company/chief-of-staff.md"
+      },
+      "path": "positions/chief-of-staff.md",
+      "sha256": "1b8252166877bcc1bf92854acd4419c6be97c55ac6c5e3b8a95d95f435ac0a9c"
+    },
+    {
+      "id": "clinical-evidence-agent",
+      "name": "临床证据专家",
+      "description": "负责守住医疗AI对外输出中的证据完整性：每一条疗效或结果类论断都要有来源，未经验证的必须被标记，产品定位不得越过“仅辅助医生决策”这条线。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "healthcare/healthcare-clinical-evidence-agent.md"
+      },
+      "path": "positions/clinical-evidence-agent.md",
+      "sha256": "ee7734a2c64a8a423afbf613f7f733c2b0fa7af188f3428671aeb2042d7c9000"
+    },
+    {
+      "id": "innovation-strategist",
+      "name": "医疗创新战略师",
+      "description": "负责把医疗科技项目复杂的临床与财务现实，翻译成投资人、监管机构、政府合作方和医生各自听得懂的语言，并保证所有对外材料说的是同一个核心论点。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "healthcare/healthcare-innovation-strategist.md"
+      },
+      "path": "positions/innovation-strategist.md",
+      "sha256": "dd4f6652f7064f70e0b7747720ded03d898a1bee96e7384a2e8a2a2f8029f750"
+    },
+    {
+      "id": "sovereign-health-systems-agent",
+      "name": "主权卫生体系专家",
+      "description": "负责把医疗科技能力对接进主权国家的卫生体系，处理的是政府卫生主管部门而非商业客户。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "healthcare/healthcare-sovereign-health-systems-agent.md"
+      },
+      "path": "positions/sovereign-health-systems-agent.md",
+      "sha256": "6e83176a2f197701c24a0d3bf3b67c72614a3f8e30228ae8477b703d7a62055f"
+    },
+    {
+      "id": "research-synthesist",
+      "name": "研究综合专家",
+      "description": "负责查找、评估并综合已有的文献与既有证据，不产生新的一手数据。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "research/research-synthesist.md"
+      },
+      "path": "positions/research-synthesist.md",
+      "sha256": "d526307a23cb7cd9b0819068d8e7bc0070385bd0f4e40fc049ced4d94b090784"
+    },
+    {
+      "id": "persona-walkthrough",
+      "name": "Persona 走查专家",
+      "description": "负责以某个具体用户画像（persona）的心理处境完整地走查一个落地页或网页，用第一人称还原真实访客逐屏滚动时的判断、犹豫和放弃。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-persona-walkthrough.md"
+      },
+      "path": "positions/persona-walkthrough.md",
+      "sha256": "5ffaba90d082301e1674f77587ee17c71d13b01ec3fea8186a1a6cad4e53cf15"
+    },
+    {
+      "id": "brand-guardian",
+      "name": "品牌守护者",
+      "description": "负责建立并守住一套统一的品牌体系，把商业战略翻译成品牌目的、愿景、使命、价值观、个性与定位。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-brand-guardian.md"
+      },
+      "path": "positions/brand-guardian.md",
+      "sha256": "e29cd37db8da8e9cfcd187060e6dc8d164a2068f9c30b8d9c5864c58a22bc881"
+    },
+    {
+      "id": "image-prompt-engineer",
+      "name": "图像提示词工程师",
+      "description": "负责把脑中的视觉构想翻译成图像生成工具能稳定执行的文字描述，产出可直接用于商业或编辑用途的摄影级画面。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-image-prompt-engineer.md"
+      },
+      "path": "positions/image-prompt-engineer.md",
+      "sha256": "06c5fc072425fc3094d12baab96caa223853fd7b49f25a54027526f36e65c073"
+    },
+    {
+      "id": "inclusive-visuals-specialist",
+      "name": "包容性视觉专家",
+      "description": "负责消除生成式图像与视频中的人物偏见，让出现的每一个人物都有真实的尊严、主体性和文化根基，而不只是完成\"多元化配额\"。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-inclusive-visuals-specialist.md"
+      },
+      "path": "positions/inclusive-visuals-specialist.md",
+      "sha256": "81050dd6de3894965b7044182805170e295823e1dd9be47e5019bbe5be58c56b"
+    },
+    {
+      "id": "ui-designer",
+      "name": "UI 设计师",
+      "description": "负责把交互结构和品牌要求落成像素级的界面：设计令牌（DesignToken）、组件库、排版与色彩层级、响应式断点、暗色主题和开发者交付规格。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-ui-designer.md"
+      },
+      "path": "positions/ui-designer.md",
+      "sha256": "dd63d1e61ae9eb1a96ccd29bf034a0d3d25f8e03b2a5f8e6c03dfc5c6f8e2039"
+    },
+    {
+      "id": "ux-architect",
+      "name": "UX 架构师",
+      "description": "负责在开发动工之前把地基打好：CSS变量体系、间距与字号阶梯、Grid与Flexbox布局框架、组件分层与命名规范、响应式断点、明暗与跟…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-ux-architect.md"
+      },
+      "path": "positions/ux-architect.md",
+      "sha256": "f37032a8de487d0f7f50e839fd1d2e00b00bce7da4adb064434f7ddfdfcbda7f"
+    },
+    {
+      "id": "ux-researcher",
+      "name": "UX 研究员",
+      "description": "负责用实证方法理解用户真实行为，验证或推翻设计假设，并把结果转成产品或设计能够直接执行的结论。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-ux-researcher.md"
+      },
+      "path": "positions/ux-researcher.md",
+      "sha256": "6123cf1fb80e4ef675a535033143e062469b5dc0f27eafd90ef63fa22dd490ac"
+    },
+    {
+      "id": "visual-storyteller",
+      "name": "视觉叙事师",
+      "description": "负责把复杂信息与品牌主张组织成有起承转合的视觉故事：先定故事弧线（铺垫、冲突、解决）和情绪曲线。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-visual-storyteller.md"
+      },
+      "path": "positions/visual-storyteller.md",
+      "sha256": "eb9b2cd91a5a7004fc6f082e631ab7eac61d27c069cddafd7768609c9dee2fbc"
+    },
+    {
+      "id": "whimsy-injector",
+      "name": "趣味注入师",
+      "description": "负责在不影响功能完成度的前提下，为产品注入可被记住的个性细节：微交互、加载与空状态文案、出错页面、彩蛋、完成庆祝和轻度游戏化。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-whimsy-injector.md"
+      },
+      "path": "positions/whimsy-injector.md",
+      "sha256": "e6dfb084fcd13de5caccff31caf4d486c9e835a9da2a9c730ef758dfbb084502"
+    },
+    {
+      "id": "video-prompt-engineer",
+      "name": "视频提示词工程师",
+      "description": "负责把一句模糊的创意写成视频生成模型真的能拍出来的一段拍摄指令：谁、在哪、镜头怎么动、光是什么样、声音是什么、哪里要留瑕疵。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-video-prompt-engineer.md"
+      },
+      "path": "positions/video-prompt-engineer.md",
+      "sha256": "09d625137e0764952649a079c4a83ac4c84802fea50f5f6568039d54ded175f7"
+    },
+    {
+      "id": "ui-finish-gate-reviewer",
+      "name": "UI 收尾审查员",
+      "description": "负责在界面上线前做最后一道产品设计审查，判断这个页面究竟属于这个产品，还是可以原样搬到任何一个产品里。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "design/design-ui-finish-gate-reviewer.md"
+      },
+      "path": "positions/ui-finish-gate-reviewer.md",
+      "sha256": "cb718b31a4aa4460b198570cf02703834efe64f5616054e7968e0ab8b12f2a0a"
+    },
+    {
+      "id": "drupal-shopping-cart",
+      "name": "Drupal 购物车工程师",
+      "description": "负责在Drupal10/11上用DrupalCommerce构建并维护店面。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-drupal-shopping-cart.md"
+      },
+      "path": "positions/drupal-shopping-cart.md",
+      "sha256": "dfa51114eddaa2bcb1a5e443948ce226de66e0e62381cee00a82a6e35f4b2bd8"
+    },
+    {
+      "id": "it-service-manager",
+      "name": "IT 服务经理",
+      "description": "负责用ITIL4框架把IT从被动救火变成可被信任的服务组织：设计并维护服务目录，管事件（incident）与问题（problem）。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-it-service-manager.md"
+      },
+      "path": "positions/it-service-manager.md",
+      "sha256": "a5abc796eae1a8dec4086e8cfb9c85530ace1b936e26086e9726f9204982ed15"
+    },
+    {
+      "id": "multi-agent-systems-architect",
+      "name": "多智能体系统架构师",
+      "description": "负责以分布式系统的严谨度设计多智能体流水线：拓扑选型、每个智能体的输入输出契约与能力边界、上下文预算分配、故障模式与恢复路径、最小权限与…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-multi-agent-systems-architect.md"
+      },
+      "path": "positions/multi-agent-systems-architect.md",
+      "sha256": "b90867546d8a9a115c4b121199587b205ade1e94617e199b89582036aba16eaa"
+    },
+    {
+      "id": "orgscript-engineer",
+      "name": "OrgScript 工程师",
+      "description": "负责OrgScript语言工具链与组织业务逻辑建模。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-orgscript-engineer.md"
+      },
+      "path": "positions/orgscript-engineer.md",
+      "sha256": "92d34f89901fa261413987b02f98d74501df2b201cbc46637af424ba740febf4"
+    },
+    {
+      "id": "prompt-engineer",
+      "name": "Prompt 工程师",
+      "description": "负责把模糊的产品需求翻译成模型可稳定遵循的行为规格，并产出、迭代、冻结prompt。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-prompt-engineer.md"
+      },
+      "path": "positions/prompt-engineer.md",
+      "sha256": "eebe5b9d527962e8713c0eb9ce5cc0c52f619116e6a8305da08bf19592f3254e"
+    },
+    {
+      "id": "wordpress-shopping-cart",
+      "name": "WordPress 购物车工程师",
+      "description": "负责WordPress上WooCommerce店铺的商品架构、购物车与结算流程、支付网关集成、税费与优惠券配置、订单生命周期。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-wordpress-shopping-cart.md"
+      },
+      "path": "positions/wordpress-shopping-cart.md",
+      "sha256": "ffe2c2112e624475c2bfc6b7700386d095a50e0e8d718b40e9ad378048a06169"
+    },
+    {
+      "id": "ai-data-remediation-engineer",
+      "name": "AI 数据修复工程师",
+      "description": "专门处理大规模数据异常：在确定性校验层判定不合格、且被标记为需要智能处理的行之后接手，把这些行压缩成少量语义模式族，生成可审计的转换逻辑。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-ai-data-remediation-engineer.md"
+      },
+      "path": "positions/ai-data-remediation-engineer.md",
+      "sha256": "fe2f62b4a7668655de7a632eede31c90fe9fc451ca6c0a5897389b7ba8b634b3"
+    },
+    {
+      "id": "ai-engineer",
+      "name": "AI 工程师",
+      "description": "负责把模型从实验环境推进到可服务的线上系统，覆盖数据管线、训练工程化、模型优化、推理服务、灰度验证与线上监控。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-ai-engineer.md"
+      },
+      "path": "positions/ai-engineer.md",
+      "sha256": "b5dc14eb9a909acb887c11aa706b6a971528ad65d0e3222f5d4303fa32e62ebb"
+    },
+    {
+      "id": "autonomous-optimization-architect",
+      "name": "自主优化架构师",
+      "description": "负责让系统在多供应商、多模型的执行路径上持续自我优化，同时用可计算的护栏保证它不会烧穿预算或陷入恶意循环。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-autonomous-optimization-architect.md"
+      },
+      "path": "positions/autonomous-optimization-architect.md",
+      "sha256": "99002beb5f41dbcc402f7d127e78388766b1595d44c832ba46bc25bd4a7a3ac9"
+    },
+    {
+      "id": "desktop-app-engineer",
+      "name": "桌面应用工程师",
+      "description": "负责用Web技术交付桌面应用，覆盖进程模型与IPC边界、代码签名与公证、自动更新管线、各平台原生系统集成。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-desktop-app-engineer.md"
+      },
+      "path": "positions/desktop-app-engineer.md",
+      "sha256": "17b64a5688642c144faa6c21608f8ebd9bd6a8fd1d5f6e8ac2b93530bb12678a"
+    },
+    {
+      "id": "api-platform-engineer",
+      "name": "API 平台工程师",
+      "description": "负责面向外部开发者、合作方和内部平台提供可长期演进的接口。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-api-platform-engineer.md"
+      },
+      "path": "positions/api-platform-engineer.md",
+      "sha256": "c84a16eb85ee83483ad22fdced4ff383b0e39f340144c2ddd5e029153207fa7c"
+    },
+    {
+      "id": "database-reliability-engineer",
+      "name": "数据库可靠性工程师",
+      "description": "负责生产数据存储的可用性、持久性、复制与恢复，以及在不阻塞业务的前提下完成表结构变更。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-database-reliability-engineer.md"
+      },
+      "path": "positions/database-reliability-engineer.md",
+      "sha256": "f9e9b562cc107a2e653096eb8042a09c7f9274177dcc2fa7139896daeed4cd49"
+    },
+    {
+      "id": "platform-engineer",
+      "name": "平台工程师",
+      "description": "负责内部开发者平台，把常见交付动作铺成“黄金路径”：新建服务、申请数据库与域名、接入可观测性与值班、轮换凭据，都能通过一条命令完成。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-platform-engineer.md"
+      },
+      "path": "positions/platform-engineer.md",
+      "sha256": "5f3a5b2d2bb86bb4d946752012e34ac048583fcdf9fe3208456367da78487c7e"
+    },
+    {
+      "id": "developer-tooling-engineer",
+      "name": "开发者工具工程师",
+      "description": "负责构建工程师每天真正会反复使用的命令行工具、内部脚本和自动化胶水层。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-developer-tooling-engineer.md"
+      },
+      "path": "positions/developer-tooling-engineer.md",
+      "sha256": "2d2b6b431f8977166ad65078f29aadea9ac2d2cf08585865562f00a87df45030"
+    },
+    {
+      "id": "finops-engineer",
+      "name": "FinOps 工程师",
+      "description": "负责让云支出可见、可归属、有效率，工作横跨工程、财务与产品。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-finops-engineer.md"
+      },
+      "path": "positions/finops-engineer.md",
+      "sha256": "b84e5933f79c5e0c9c00227250964c26fc279590c8febe9c6912d85c6956a50c"
+    },
+    {
+      "id": "privacy-engineer",
+      "name": "隐私工程师",
+      "description": "负责把隐私承诺落成可运行、可验证的技术控制。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-privacy-engineer.md"
+      },
+      "path": "positions/privacy-engineer.md",
+      "sha256": "7d4caf98994b73c787a3397c4418d645c4e4c5ce4a87eff9cbaf51aaca33255a"
+    },
+    {
+      "id": "i18n-engineer",
+      "name": "国际化工程师",
+      "description": "负责让产品在多语言、多文字和多地区环境下真正正确，而不只是被翻译过。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-i18n-engineer.md"
+      },
+      "path": "positions/i18n-engineer.md",
+      "sha256": "a08626dc249aec3ec83ba5c18398c5b54d9fe9ab1a8d037df8fe8af1d43735df"
+    },
+    {
+      "id": "knowledge-graph-engineer",
+      "name": "知识图谱工程师",
+      "description": "负责把分散的文档与信息组织成持久、可查询、可演进的实体关系网络，让检索和推理基于子图而不是把全部语料塞进上下文。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-knowledge-graph-engineer.md"
+      },
+      "path": "positions/knowledge-graph-engineer.md",
+      "sha256": "f9e5994d67f23318cad9d6f1c1d4bedc91c1c34aa911eb4fc5aaeee44578fa12"
+    },
+    {
+      "id": "search-relevance-engineer",
+      "name": "搜索相关性工程师",
+      "description": "负责让搜索真正找得到东西并把对的结果排在前面，覆盖索引映射与分析器设计、查询结构与字段加权、词法与语义混合检索、相关性评估体系建设。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-search-relevance-engineer.md"
+      },
+      "path": "positions/search-relevance-engineer.md",
+      "sha256": "f378257f800294b9a90fce4375c8ab1f9e2e325d5f06b10b0cfe706d28f5802f"
+    },
+    {
+      "id": "llm-post-training-engineer",
+      "name": "LLM 后训练工程师",
+      "description": "负责把一个基础模型检查点变成可发布的行为变更：确定监督信号、跑SFT、偏好优化、RLHF/RLVR，处理MoE后训练问题。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-llm-post-training-engineer.md"
+      },
+      "path": "positions/llm-post-training-engineer.md",
+      "sha256": "be5b56e467a7f298b22fddbfadec1ecb0662564a47e527e5a8a4404bebce7a8f"
+    },
+    {
+      "id": "realtime-collaboration-engineer",
+      "name": "实时协作工程师",
+      "description": "负责实时协作背后的同步系统：WebSocket/SSE传输、会话恢复、在线状态（presence）、基于CRDT或OT的协同编辑、离线优…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-realtime-collaboration-engineer.md"
+      },
+      "path": "positions/realtime-collaboration-engineer.md",
+      "sha256": "676be9d424a2cc9fcaa42a4fd70601f97dd9622ffaa0d7cd0a8358ac6710e61c"
+    },
+    {
+      "id": "webassembly-engineer",
+      "name": "WebAssembly 工程师",
+      "description": "负责把一个工作负载编译成WebAssembly并让它真正可交付。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-webassembly-engineer.md"
+      },
+      "path": "positions/webassembly-engineer.md",
+      "sha256": "7564c0b28e5317bcc97f11556552b57f20f0aa169e0932d5f6988a3d677f3816"
+    },
+    {
+      "id": "video-streaming-engineer",
+      "name": "视频流媒体工程师",
+      "description": "负责从转码、封装、内容保护、CDN分发到播放器自适应码率（ABR）这一整条视频链路，目标是在真实设备与真实网络上做到秒开、少卡顿、成本可控。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-video-streaming-engineer.md"
+      },
+      "path": "positions/video-streaming-engineer.md",
+      "sha256": "445f096568371a887ec1f9073ed494feb9565e355e65d0a0c5ec7b17cdb1b369"
+    },
+    {
+      "id": "mobile-release-engineer",
+      "name": "移动端发布工程师",
+      "description": "负责把移动应用从一次通过的构建送到用户设备上，并保证过程里不出现签名崩溃、提审被拒或坏版本铺满全部用户。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-mobile-release-engineer.md"
+      },
+      "path": "positions/mobile-release-engineer.md",
+      "sha256": "3e58786c93d11ebd7402ce5bd53c03c2e11e5741815363ef97fa26d97ac6b805"
+    },
+    {
+      "id": "data-visualization-engineer",
+      "name": "数据可视化工程师",
+      "description": "负责把数据变成能被正确、快速、诚实解读的图表，重心在视觉编码设计与渲染实现，而不是美化界面。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-data-visualization-engineer.md"
+      },
+      "path": "positions/data-visualization-engineer.md",
+      "sha256": "d723d84271ea2bbb5bca49fde0748e0d4caaf83996143ebf94fa0ebedd70104c"
+    },
+    {
+      "id": "iot-fleet-engineer",
+      "name": "IoT 设备群工程师",
+      "description": "负责运维部署在物理现场、网络时断时续、无法随时重装固件的大规模设备群：设备预配与身份、遥测接入、空中升级（OTA）、边缘计算和远程可观测性。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-iot-fleet-engineer.md"
+      },
+      "path": "positions/iot-fleet-engineer.md",
+      "sha256": "520760424955a12afba3aba5a50877306b7fa3012d9304f9b61516d8c3dca01e"
+    },
+    {
+      "id": "rust-refactoring-specialist",
+      "name": "Rust 重构专家",
+      "description": "负责Rust仓库级的重构与代码治理：安全重命名、模块与crate重组、消除重复、改进所有权与借用、加固panic路径、修掉编译器和Cli…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-rust-refactoring-specialist.md"
+      },
+      "path": "positions/rust-refactoring-specialist.md",
+      "sha256": "8717416b8963db41ef7eeb1f505fe1da87890d23571132d17f7a2ccb4c765932"
+    },
+    {
+      "id": "pdf-engine-architect",
+      "name": "PDF 引擎架构师",
+      "description": "负责确定性HTML转PDF的整条编译链路：实时DOM快照、页面几何计算、无头浏览器渲染，到带标签PDF与归档格式合规。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-pdf-engine-architect.md"
+      },
+      "path": "positions/pdf-engine-architect.md",
+      "sha256": "ad5a678a8533fff4e98c0bcbe7a10b21d72ae8d330070281f799bdeeee79a8e5"
+    },
+    {
+      "id": "universal-document-compiler",
+      "name": "通用文档编译器",
+      "description": "负责把任意不依赖模式（schema）的数据树（YAML、JSON、带前置字段的Markdown）编译成出版级、分页确定性的文档。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-universal-document-compiler.md"
+      },
+      "path": "positions/universal-document-compiler.md",
+      "sha256": "42091f14508d77201dc0613415fc045a018a7b01f999d35c5b803ce002720b9c"
+    },
+    {
+      "id": "ats-validator-architect",
+      "name": "ATS 校验架构师",
+      "description": "负责判断一份简历能否被招聘管理系统（ATS，ApplicantTrackingSystem）正确摄入、解析和排序，并给出可复核的改进依据。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-ats-validator-architect.md"
+      },
+      "path": "positions/ats-validator-architect.md",
+      "sha256": "84a843d31414497373772157cd7929a4fc8962294461fbf949b19e46a2be60bc"
+    },
+    {
+      "id": "network-engineer",
+      "name": "网络工程师",
+      "description": "负责企业级路由、交换、防火墙与VPN的配置设计、变更实施和故障排查。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-network-engineer.md"
+      },
+      "path": "positions/network-engineer.md",
+      "sha256": "6ae89ec4728ef63dbd64d0e3eaf493b5ee126b33ef269bbcd84c052095770cf3"
+    },
+    {
+      "id": "gaussdb-expert",
+      "name": "GaussDB 专家",
+      "description": "负责GaussDB的OLTP设计与调优：表结构与分布键、存储引擎选型、分区协同、分布式执行计划解读、索引与参数调优。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-gaussdb-expert.md"
+      },
+      "path": "positions/gaussdb-expert.md",
+      "sha256": "938be058982ba3844ca959acdf0f563d1a31ffde5da7469470fd070e7ad6fbb5"
+    },
+    {
+      "id": "drupal-performance",
+      "name": "Drupal 性能工程师",
+      "description": "负责Drupal站点的加载速度，覆盖缓存体系、数据库查询、渲染管线、前端资源与运行时调优。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-drupal-performance.md"
+      },
+      "path": "positions/drupal-performance.md",
+      "sha256": "76175760439022b542d28b7e31e307608f5432e2a21b6387e7571c7b3c1c5a61"
+    },
+    {
+      "id": "wordpress-performance",
+      "name": "WordPress 性能工程师",
+      "description": "负责让WordPress站点在真实移动设备与真实插件负载下变快并保持快。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-wordpress-performance.md"
+      },
+      "path": "positions/wordpress-performance.md",
+      "sha256": "ed7640eba8ca0c0eb9685c4b35b2e52f7dbdbf7da97fdda34ed07040a85ce148"
+    },
+    {
+      "id": "section-508-specialist",
+      "name": "Section 508 无障碍专家",
+      "description": "负责让Web应用与文档真正能被残障用户使用，并准确说明符合哪一项标准。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-section-508-specialist.md"
+      },
+      "path": "positions/section-508-specialist.md",
+      "sha256": "349bce23e1f163796cdcadcf00e1ece58a501d30b4273c22c94416dc2df8af94"
+    },
+    {
+      "id": "servicenow-developer-mentor",
+      "name": "ServiceNow 开发导师",
+      "description": "负责ServiceNow平台上的开发与排障指导，覆盖BusinessRule、ScriptInclude、ClientScript、AC…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-servicenow-developer-mentor.md"
+      },
+      "path": "positions/servicenow-developer-mentor.md",
+      "sha256": "ccf937afb1a94101e8cf7d04211d54cf9e60971be43b2d659223492d4dc5a9c8"
+    },
+    {
+      "id": "uswds-developer",
+      "name": "USWDS 开发工程师",
+      "description": "负责用美国政府网站设计系统（USWDS）构建联邦与公共部门前端界面。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-uswds-developer.md"
+      },
+      "path": "positions/uswds-developer.md",
+      "sha256": "e28127a67dd337790126ac9e6f30b32e02924daf44169532279337d4bbe38e51"
+    },
+    {
+      "id": "backend-architect",
+      "name": "后端架构师",
+      "description": "负责服务端系统的架构设计与关键落地，覆盖服务分解、数据模型与索引规范、API契约、缓存策略、可靠性与云基础设施。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-backend-architect.md"
+      },
+      "path": "positions/backend-architect.md",
+      "sha256": "cce01e0307d594a9943744e2ea3b618a06feae83bf8334ed9668047c9de14e91"
+    },
+    {
+      "id": "cms-developer",
+      "name": "CMS 开发者",
+      "description": "负责Drupal与WordPress站点的工程实现，覆盖内容建模、主题开发、自定义插件或模块、区块与布局体系。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-cms-developer.md"
+      },
+      "path": "positions/cms-developer.md",
+      "sha256": "6742ec888889079fe5a251441790d400bbcd52a6740c25b879e8464a851d5f59"
+    },
+    {
+      "id": "codebase-onboarding-engineer",
+      "name": "代码库入职引导工程师",
+      "description": "负责把陌生代码库的结构与执行路径讲清楚，让新加入的开发者能快速建立准确的心智模型。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-codebase-onboarding-engineer.md"
+      },
+      "path": "positions/codebase-onboarding-engineer.md",
+      "sha256": "e381d4a8e5c68d2c50a5faa85df30a9b58c36b1c067b4ce64ebd25efd4221e0a"
+    },
+    {
+      "id": "code-reviewer",
+      "name": "代码审查员",
+      "description": "负责在合并前对代码变更给出完整、可执行的审查结论，权衡正确性、安全性、可维护性、性能和测试覆盖。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-code-reviewer.md"
+      },
+      "path": "positions/code-reviewer.md",
+      "sha256": "fc5bdb68ae3491d1650506c4d99d6ebc38e15874c6092d44901e0231e041d31b"
+    },
+    {
+      "id": "data-engineer",
+      "name": "数据工程师",
+      "description": "负责把分散、杂乱的原始数据变成可被分析与模型消费的可信资产，覆盖摄取、清洗、分层建模、质量校验、血缘与运行监控。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-data-engineer.md"
+      },
+      "path": "positions/data-engineer.md",
+      "sha256": "7cbe513783d28dac204f4e71138e418290dcde65538135b4150ead2fee8b0fdd"
+    },
+    {
+      "id": "email-intelligence-engineer",
+      "name": "邮件智能工程师",
+      "description": "负责把原始邮件数据加工成结构化、可供智能体推理的上下文，覆盖接入归一化、线程拓扑重建、引用去重、参与者与决策提取、检索与上下文组装。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-email-intelligence-engineer.md"
+      },
+      "path": "positions/email-intelligence-engineer.md",
+      "sha256": "d96d86bf9e916830d6e43c2e9d4bc240fea55c1e4868283fbd8766ce86e0e973"
+    },
+    {
+      "id": "database-optimizer",
+      "name": "数据库优化师",
+      "description": "负责关系型数据库的schema设计、查询性能优化、索引策略、连接池配置与安全迁移。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-database-optimizer.md"
+      },
+      "path": "positions/database-optimizer.md",
+      "sha256": "2cd18810e3697f67c6bcc2c12172a207aa754c2e0622a9f6225f8a04e76f6f56"
+    },
+    {
+      "id": "devops-automator",
+      "name": "DevOps 自动化师",
+      "description": "负责基础设施即代码、CI/CD流水线、容器编排与部署策略，以及配套的监控告警和回滚能力。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-devops-automator.md"
+      },
+      "path": "positions/devops-automator.md",
+      "sha256": "6b7a9aac5938e764f9637b477a2025d727fe5b8f9abfb24bf44d5003e66e6ba1"
+    },
+    {
+      "id": "dingtalk-integration-developer",
+      "name": "钉钉集成开发工程师",
+      "description": "负责钉钉开放平台的企业级集成开发，覆盖应用类型选型、群机器人与应用机器人、互动卡片、审批流自动化、连接器与低代码编排、小程序免登。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-dingtalk-integration-developer.md"
+      },
+      "path": "positions/dingtalk-integration-developer.md",
+      "sha256": "f0ab8acc220e4d752228ac51c25d6060849698af21b2a981d65526658db9b688"
+    },
+    {
+      "id": "rag-pipeline-engineer",
+      "name": "RAG 管线工程师",
+      "description": "负责交付生产级检索增强生成（RAG）管线，覆盖文档切分、嵌入模型选型、索引配置、混合检索融合、重排、上下文组装与评测闭环。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-rag-pipeline-engineer.md"
+      },
+      "path": "positions/rag-pipeline-engineer.md",
+      "sha256": "11267ae0bdbb920b06ecb76fd9943f46cb98e9abd123046dd9d5576cbb42ff9f"
+    },
+    {
+      "id": "identity-access-engineer",
+      "name": "身份与访问工程师",
+      "description": "负责认证、会话与授权体系的实现，覆盖OAuth/OIDC授权码流程、企业单点登录（SAML/OIDC）、账号开通与停用（SCIM）、通行…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-identity-access-engineer.md"
+      },
+      "path": "positions/identity-access-engineer.md",
+      "sha256": "2a643dc7ea3273b599c636d3257d9b807346a1db2f86b03c124a6531dc15cff4"
+    },
+    {
+      "id": "payments-billing-engineer",
+      "name": "支付与计费工程师",
+      "description": "负责支付渠道接入、扣款与退款的幂等实现、回调可靠性、订阅计费状态机、争议处理与每日对账，保障资金流与订单状态一致。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-payments-billing-engineer.md"
+      },
+      "path": "positions/payments-billing-engineer.md",
+      "sha256": "93b2ef2d35a99e42294e7ab7319345295521ffb6a3c3c4b47dd75e4bfcae961a"
+    },
+    {
+      "id": "embedded-algorithm-engineer",
+      "name": "嵌入式算法工程师",
+      "description": "负责把离线算法落成能在目标硬件上按时、稳定运行的实现，覆盖数字信号处理、传感器融合、控制算法与轻量模型部署。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-embedded-algorithm-engineer.md"
+      },
+      "path": "positions/embedded-algorithm-engineer.md",
+      "sha256": "ee4f61e3f94e32377b08b63497f21f4378cff5bf6f4ad5d2549db11e36afc1a1"
+    },
+    {
+      "id": "embedded-application-engineer",
+      "name": "嵌入式应用工程师",
+      "description": "负责在驱动与系统服务之上构建设备业务，覆盖状态机设计、RTOS任务或Linux进程划分、任务间消息契约、设备协议、配置持久化、升级与掉电…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-embedded-application-engineer.md"
+      },
+      "path": "positions/embedded-application-engineer.md",
+      "sha256": "659edeb494d6ed6609e5885fa0d0d233002ce32936cb9e864840a2fe690c0fd4"
+    },
+    {
+      "id": "embedded-firmware-engineer",
+      "name": "嵌入式固件工程师",
+      "description": "负责资源受限MCU上的裸机与RTOS固件：启动流程、时钟与外设驱动、中断与任务划分、片上通信协议、OTA与低功耗模式，以及固件层的故障诊断。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-embedded-firmware-engineer.md"
+      },
+      "path": "positions/embedded-firmware-engineer.md",
+      "sha256": "4cd4051c73057b284ff0782a6274ea76fb37686872eec9ff6d2f64176dd4812b"
+    },
+    {
+      "id": "pc-host-engineer",
+      "name": "上位机工程师",
+      "description": "负责与下位机通信的桌面监控与控制软件：线程模型、工业协议对接、实时数据展示、历史数据回放、断连恢复和安装部署。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-pc-host-engineer.md"
+      },
+      "path": "positions/pc-host-engineer.md",
+      "sha256": "17c1c4e47cfc37ce3d90e79130148bb99792f9e3eb5487538d1b969321623647"
+    },
+    {
+      "id": "filament-optimization-specialist",
+      "name": "Filament 优化专家",
+      "description": "负责重构Filament后台管理界面的信息架构与表单结构，把“能填”的表单改成“好用”的表单。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-filament-optimization-specialist.md"
+      },
+      "path": "positions/filament-optimization-specialist.md",
+      "sha256": "742c2715f84113d42d9246ad4add1b0a79a4789ccfa7967c03eeb83630fc589c"
+    },
+    {
+      "id": "embedded-linux-driver-engineer",
+      "name": "嵌入式 Linux 驱动工程师",
+      "description": "负责嵌入式Linux的内核驱动与板级支持包：设备树描述、平台与总线驱动、中断与DMA接入、时钟与电源域管理、内核模块集成。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-embedded-linux-driver-engineer.md"
+      },
+      "path": "positions/embedded-linux-driver-engineer.md",
+      "sha256": "ab6b412c5bd30c1373f0b1330fdbf43ff9476fa9dda357356c5bff7faf516f4e"
+    },
+    {
+      "id": "feishu-integration-developer",
+      "name": "飞书集成开发工程师",
+      "description": "负责把企业业务系统接进飞书开放平台：应用与权限规划、机器人消息与交互卡片、审批流联动、多维表格数据同步、单点登录与通讯录同步。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-feishu-integration-developer.md"
+      },
+      "path": "positions/feishu-integration-developer.md",
+      "sha256": "30b64bb3d6f863427402771ecdc04fc9a2ebff876fbcbdc443cca06c91425a57"
+    },
+    {
+      "id": "fpga-digital-design-engineer",
+      "name": "FPGA/ASIC 数字设计工程师",
+      "description": "负责可综合数字逻辑的前端设计：模块划分与数据通路、时钟域规划、总线接口实现、时序收敛与资源预算，以及配套的仿真验证与板级调试。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-fpga-digital-design-engineer.md"
+      },
+      "path": "positions/fpga-digital-design-engineer.md",
+      "sha256": "35a025783af0a6e188e42f38e8b5c805b0ea4e7a48a69b19aba0d14f38d3ce99"
+    },
+    {
+      "id": "frontend-developer",
+      "name": "前端开发者",
+      "description": "负责Web界面的实现：组件拆分与状态管理、样式与响应式布局、接口对接与错误反馈、加载与交互性能、无障碍支持、跨浏览器兼容和前端测试。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-frontend-developer.md"
+      },
+      "path": "positions/frontend-developer.md",
+      "sha256": "20bfecd71f227896d2b2169bd5183f0cec0481f3685c90a6191a01aaaeb2ee1e"
+    },
+    {
+      "id": "git-workflow-master",
+      "name": "Git 工作流大师",
+      "description": "负责仓库的版本控制策略与历史质量：分支模型选型、提交粒度与信息规范、变基与合并的取舍、冲突处理、历史整理、发布与打标签流程。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-git-workflow-master.md"
+      },
+      "path": "positions/git-workflow-master.md",
+      "sha256": "b1fee5a7e63edfbf92833afa42402cae5d50d693c3ee694b6d2afaf9d3cab38b"
+    },
+    {
+      "id": "mechanical-design-engineer",
+      "name": "机械设计工程师",
+      "description": "负责通用机械产品从方案到出图的全过程：传动与机构选型、结构件与连接设计、载荷分析、强度刚度与疲劳振动校核、面向制造与装配的设计（DFMA…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-mechanical-design-engineer.md"
+      },
+      "path": "positions/mechanical-design-engineer.md",
+      "sha256": "a02463a752f82deffcbd90b508716dce16e2336bcf59501e78ad371747babf28"
+    },
+    {
+      "id": "incident-response-commander",
+      "name": "故障响应指挥官",
+      "description": "负责生产故障现场的组织与节奏：定级、分工、指挥排查、对外沟通和事后复盘，并维护值班与演练机制。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-incident-response-commander.md"
+      },
+      "path": "positions/incident-response-commander.md",
+      "sha256": "52be743fe3af8415496297e24e509324ae78829d09f65643acf476f2036ef72c"
+    },
+    {
+      "id": "iot-solution-architect",
+      "name": "IoT 方案架构师",
+      "description": "负责从传感器到云端的端到端物联网方案：分层架构、通信协议与网络制式选型、物模型与主题设计、设备身份与密钥体系、离线与状态同步、OTA灰度…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-iot-solution-architect.md"
+      },
+      "path": "positions/iot-solution-architect.md",
+      "sha256": "5e116af27ffe47ca837f3155be2ffc9ad22f6cfb7ba21c78c167eb017e34d155"
+    },
+    {
+      "id": "minimal-change-engineer",
+      "name": "最小变更工程师",
+      "description": "负责以最小可行差异完成被明确要求的改动：缺陷修复只触碰出问题的代码，小功能只增加必需部分，并主动拦下范围蔓延。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-minimal-change-engineer.md"
+      },
+      "path": "positions/minimal-change-engineer.md",
+      "sha256": "1d7f87050c1530662f7c3ff52e8fda87b28985fc51c290e113bfcaeeeea40be3"
+    },
+    {
+      "id": "mobile-app-builder",
+      "name": "移动应用开发者",
+      "description": "负责iOS与Android应用的功能实现与体验质量。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-mobile-app-builder.md"
+      },
+      "path": "positions/mobile-app-builder.md",
+      "sha256": "6aea0fc72178c611e06e496b4bbc788d0b6e1c3267972c90845415107785ab94"
+    },
+    {
+      "id": "rapid-prototyper",
+      "name": "快速原型师",
+      "description": "负责把想法在很短时间内做成可点击、可试用、能收集反馈的原型或最小可用产品。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-rapid-prototyper.md"
+      },
+      "path": "positions/rapid-prototyper.md",
+      "sha256": "c0ceaaaf0494e99956dac979effd34ffc0a984b175f41088fbe882ef273ff397"
+    },
+    {
+      "id": "security-engineer",
+      "name": "安全工程师",
+      "description": "负责应用与云环境的安全设计与审查：威胁建模、认证与授权方案评审、输入与输出边界检查、依赖与供应链风险、密钥管理、加固建议。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-security-engineer.md"
+      },
+      "path": "positions/security-engineer.md",
+      "sha256": "3b1be0bc27ba0f3348a9a3f3b99bdc40090048ec8cfdc0f78359e03a489b13fb"
+    },
+    {
+      "id": "senior-developer",
+      "name": "高级开发者",
+      "description": "负责把一个已经定好范围的功能做成有质感的完整交付：服务端与页面逻辑贯通、组件库组合、主题与视觉细节、动效与微交互、加载性能与无障碍。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-senior-developer.md"
+      },
+      "path": "positions/senior-developer.md",
+      "sha256": "a0f63e113b14807a15e6cc0e780cc3a1bd30ae257e23892c759c71ede0109678"
+    },
+    {
+      "id": "software-architect",
+      "name": "软件架构师",
+      "description": "负责系统的整体结构设计：划分限界上下文与模块边界，决定服务拆分方式、数据归属和依赖方向，并把重大技术选择沉淀为可追溯的决策记录。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-software-architect.md"
+      },
+      "path": "positions/software-architect.md",
+      "sha256": "a6bac0b243c9a1847b33e029a1983124bd9ea895c1a98d8f4daed03e6535c59a"
+    },
+    {
+      "id": "solidity-smart-contract-engineer",
+      "name": "Solidity 智能合约工程师",
+      "description": "负责EVM兼容链上智能合约的架构、实现、测试与上线准备，覆盖代币标准、DeFi基础组件、可升级代理和权限体系。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-solidity-smart-contract-engineer.md"
+      },
+      "path": "positions/solidity-smart-contract-engineer.md",
+      "sha256": "5d4237d4db635c2824da9995713b0f7a95304a016695dc7e00e276dd6350a692"
+    },
+    {
+      "id": "sre",
+      "name": "SRE（站点可靠性工程师）",
+      "description": "负责用工程手段保障生产系统的可靠性：定义与用户体验对齐的服务级别目标（SLO），用错误预算把可靠性和发布节奏量化挂钩。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-sre.md"
+      },
+      "path": "positions/sre.md",
+      "sha256": "5fa6bea7d5faab026b50e5e17a9279a1ec9460716953f187aa5bc00543cdb2d5"
+    },
+    {
+      "id": "technical-writer",
+      "name": "技术文档工程师",
+      "description": "负责把工程实现转化为开发者真正能读懂、能照着做的文档，覆盖README、API参考、教程和概念说明，并维护文档与软件版本的一致性。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-technical-writer.md"
+      },
+      "path": "positions/technical-writer.md",
+      "sha256": "92f07eb826b0870cbad0ecdd3f23d658530606927e3436239ea889cc05c0af59"
+    },
+    {
+      "id": "threat-detection-engineer",
+      "name": "威胁检测工程师（工程侧）",
+      "description": "负责构建预防性控制被绕过之后仍能发现攻击者的检测层：编写并维护检测规则，把覆盖度映射到攻击技战术矩阵，用威胁狩猎补齐规则遗漏。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-threat-detection-engineer.md"
+      },
+      "path": "positions/threat-detection-engineer.md",
+      "sha256": "1870912ddd3791c003f53d64192d302f23997ea94acf6d7e179401396b8cfca0"
+    },
+    {
+      "id": "voice-ai-integration-engineer",
+      "name": "语音 AI 集成工程师",
+      "description": "负责设计并落地端到端语音转文字流水线：音频采集与校验、预处理、分块、转录、说话人分离、文本清洗、字幕与结构化输出，再到下游系统对接。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-voice-ai-integration-engineer.md"
+      },
+      "path": "positions/voice-ai-integration-engineer.md",
+      "sha256": "00bdfdda89b829fa4ad59184f58c4b1b36f883fd1544708ce2d84241ff15215f"
+    },
+    {
+      "id": "network-engineer-china",
+      "name": "国内网络工程师",
+      "description": "负责基于国产网络设备的企业网规划、部署与排障，覆盖园区网、数据中心和广域网，涉及二层防环、三层路由、冗余设计和安全域划分。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-network-engineer-china.md"
+      },
+      "path": "positions/network-engineer-china.md",
+      "sha256": "306978962ad66a0e43af766b16f56cf7f7d904a561df7d202d895276d4d85e9a"
+    },
+    {
+      "id": "wechat-mini-program-developer",
+      "name": "微信小程序开发者",
+      "description": "负责微信小程序从需求评估到上线审核的完整开发：页面与组件结构设计、样式适配、数据流管理、微信登录与支付等生态能力集成、包体积与启动性能优化。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "engineering/engineering-wechat-mini-program-developer.md"
+      },
+      "path": "positions/wechat-mini-program-developer.md",
+      "sha256": "9cc7e1babaa13d87b444134a2db8254afd0b3aabf1e36de730f701d88dce29ff"
+    },
+    {
+      "id": "hk-stock-compliance-reviewer",
+      "name": "香港股市合规审查专家",
+      "description": "负责香港市场上市申请与已上市公司的合规审查：评估上市适宜性、审阅招股书与通函、判断交易是否触及公告或股东批准门槛、识别关联交易与内幕消息…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "finance/finance-hk-stock-compliance-reviewer.md"
+      },
+      "path": "positions/hk-stock-compliance-reviewer.md",
+      "sha256": "e41c891cb9a0592e6ffab9998b694f34a70a020dea36a41e4eb884f333b63d58"
+    },
+    {
+      "id": "bookkeeper-controller",
+      "name": "簿记与财务总监",
+      "description": "负责日常会计记录和月末结账的全流程：应付应收、工资核算、现金与银行对账、固定资产、收入确认，以及计提、分摊和财务报表编制。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "finance/finance-bookkeeper-controller.md"
+      },
+      "path": "positions/bookkeeper-controller.md",
+      "sha256": "042810e9e6ca909e2280d53d0bd5cadabe706b853db2b5528e5426488132099b"
+    },
+    {
+      "id": "financial-analyst",
+      "name": "财务分析师",
+      "description": "负责把原始财务数据转化为可用于决策的分析：搭建三表联动模型、做估值与投资测算、编制差异分析、开展场景与敏感性测试。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "finance/finance-financial-analyst.md"
+      },
+      "path": "positions/financial-analyst.md",
+      "sha256": "f8d867a6fe7b9d1c476dcc6e9619e408c0a74b79be55cb48ce9af7f51f996bba"
+    },
+    {
+      "id": "financial-forecaster",
+      "name": "财务预测分析师",
+      "description": "负责企业层面的收入预测、现金流管理和融资测算：按收入类型分层建模，构建多情景预测，滚动监控烧钱率与现金跑道。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "finance/finance-financial-forecaster.md"
+      },
+      "path": "positions/financial-forecaster.md",
+      "sha256": "29785179336306afc26e8f9f830e438a53dd107f52e475954436ca8253a4728d"
+    },
+    {
+      "id": "fpa-analyst",
+      "name": "FP&A 分析师",
+      "description": "负责预算与规划的闭环：把公司战略和业务计划翻译成年度运营计划与部门预算，按月做预算与实际差异分析，按季度更新滚动预测。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "finance/finance-fpa-analyst.md"
+      },
+      "path": "positions/fpa-analyst.md",
+      "sha256": "b8251bb94a5bcfaf12c55c19dffc6a3c2d122d848f4c5579c6f5cf454ff8f3f5"
+    },
+    {
+      "id": "fraud-detector",
+      "name": "金融风控分析师",
+      "description": "负责交易欺诈检测与金融风险防控：设计实时规则与模型评分的分层策略，监控支付渠道异常，识别盗刷、套现、刷单和电信诈骗。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "finance/finance-fraud-detector.md"
+      },
+      "path": "positions/fraud-detector.md",
+      "sha256": "30de6b8a098e296aebe6cced4640a2c3b1948fcad3687f6307351bbc29908501"
+    },
+    {
+      "id": "investment-researcher",
+      "name": "投资研究员",
+      "description": "负责对投资标的开展独立研究：用一手资料做基本面分析、量化估值和尽职调查，形成有明确论点、催化剂、风险因素和退出条件的投资建议。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "finance/finance-investment-researcher.md"
+      },
+      "path": "positions/investment-researcher.md",
+      "sha256": "bfe0b37bb26baa92ab03368917d8694b11752773a40458272df2ae003f50412c"
+    },
+    {
+      "id": "invoice-manager",
+      "name": "发票管理专家",
+      "description": "负责中国企业发票的全生命周期管理：确定开票类型与信息、处理红冲与作废、审核进项发票并完成勾选认证、把关报销三单匹配、组织对账归档与申报前…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "finance/finance-invoice-manager.md"
+      },
+      "path": "positions/invoice-manager.md",
+      "sha256": "48ee24318425d47db9c6f6b7966e4ed6c34446e82c6f260a608bc5eaf388ced1"
+    },
+    {
+      "id": "tax-strategist",
+      "name": "税务策略师",
+      "description": "负责在完全合规的前提下设计税务结构、安排交易时点并管理多辖区申报义务，目标是降低有效税率而不制造新的风险。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "finance/finance-tax-strategist.md"
+      },
+      "path": "positions/tax-strategist.md",
+      "sha256": "659172de8f9b1af3e1c7296c3f021bb555d8e51458ae826d957aac90ad637a66"
+    },
+    {
+      "id": "blender-addon-engineer",
+      "name": "Blender 插件工程师",
+      "description": "负责用Python和bpy构建Blender内工具，把重复的美术准备、校验与导出变成可靠的一键流程。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/blender/blender-addon-engineer.md"
+      },
+      "path": "positions/blender-addon-engineer.md",
+      "sha256": "597ac37ea369a3cd7396f0849d57de33c887665076f8b1525dc75dac54627220"
+    },
+    {
+      "id": "game-audio-engineer",
+      "name": "游戏音频工程师",
+      "description": "负责交互音频系统的设计与落地：音效、音乐、语音和空间声景，通过中间件或引擎原生音频接入游戏。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/game-audio-engineer.md"
+      },
+      "path": "positions/game-audio-engineer.md",
+      "sha256": "04960960c9b2aa10e4aa8d0b58d772e03db43d5437b32db9a03d12697117f982"
+    },
+    {
+      "id": "game-designer",
+      "name": "游戏设计师",
+      "description": "负责把创意目标拆成可执行的系统与机制设计，并写成工程和美术能无歧义落地的文档。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/game-designer.md"
+      },
+      "path": "positions/game-designer.md",
+      "sha256": "8ab533b8191b6b8c521fe905d33ae5c6b2f9a467d164db40e9c64efbc9b3f5e8"
+    },
+    {
+      "id": "economy-designer",
+      "name": "游戏经济设计师",
+      "description": "负责设计、建模和调优游戏内虚拟经济：货币体系、资源产出与消耗、成长成本曲线、玩家交易和付费结构。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/economy-designer.md"
+      },
+      "path": "positions/economy-designer.md",
+      "sha256": "78761b6b925c2c86580ba0db5e2170b70243e63e0db86e1d8967ec250704bc4f"
+    },
+    {
+      "id": "godot-gameplay-scripter",
+      "name": "Godot 游戏脚本开发者",
+      "description": "负责在Godot4中用GDScript2.0（必要时用C#）实现玩法系统，包括场景组合、信号架构、组件拆分和静态类型治理。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/godot/godot-gameplay-scripter.md"
+      },
+      "path": "positions/godot-gameplay-scripter.md",
+      "sha256": "c34b8a8c5f8d74774793aae6924854480c41cfede0cdfa10e13dc29592cb8501"
+    },
+    {
+      "id": "godot-multiplayer-engineer",
+      "name": "Godot 多人游戏工程师",
+      "description": "负责在Godot4中实现多人联机架构：权威模型、场景复制、远程调用设计和传输层配置。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/godot/godot-multiplayer-engineer.md"
+      },
+      "path": "positions/godot-multiplayer-engineer.md",
+      "sha256": "a6c7f9bfb4975e2dcf1e2d06ef9f371f02b535f9a2abd8d2ad3921172c673f78"
+    },
+    {
+      "id": "godot-shader-developer",
+      "name": "Godot Shader 开发者",
+      "description": "负责在Godot4中编写和优化着色器，覆盖2D画布效果、3D材质、粒子和全屏后处理，并在可视化图表与代码着色器之间做取舍。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/godot/godot-shader-developer.md"
+      },
+      "path": "positions/godot-shader-developer.md",
+      "sha256": "d4c4df6989948e808298f7574fbb00c9ec2a1689975dd37e9ddec150e1497416"
+    },
+    {
+      "id": "level-designer",
+      "name": "关卡设计师",
+      "description": "负责关卡的空间设计与节奏编排：布局流线、岔路与关键路径、遭遇战摆放、环境叙事和可读性。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/level-designer.md"
+      },
+      "path": "positions/level-designer.md",
+      "sha256": "6fa5f8ba0b1ad58890f9e152d822d4a29f3c3e96320b53863e4799514b67ec04"
+    },
+    {
+      "id": "narrative-designer",
+      "name": "叙事设计师",
+      "description": "负责游戏内叙事系统的设计与写作：对话、分支选择、角色声音、世界观层级和环境叙事，并保证它们与玩法互相支撑。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/narrative-designer.md"
+      },
+      "path": "positions/narrative-designer.md",
+      "sha256": "191553f9c5ee2de66af9bd65c7ad1c7bdd8696ada6bed6f531d3f6d66dd973ec"
+    },
+    {
+      "id": "roblox-avatar-creator",
+      "name": "Roblox 虚拟形象创作者",
+      "description": "负责制作Roblox虚拟形象相关的用户生成内容：配件、经典服装、分层服装和套装组件，覆盖建模、UV、绑定、挂载点、纹理和提交流程。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/roblox-studio/roblox-avatar-creator.md"
+      },
+      "path": "positions/roblox-avatar-creator.md",
+      "sha256": "579ea9daaf0e473334e16ba524fbb18c49d615b94ae312680fe8b5eabf51a741"
+    },
+    {
+      "id": "roblox-experience-designer",
+      "name": "Roblox 体验设计师",
+      "description": "负责Roblox平台上面向玩家的产品设计：核心参与循环、进度与留存系统、新手引导、变现结构和社交功能，并用平台持久存储保证投入被可靠保存。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/roblox-studio/roblox-experience-designer.md"
+      },
+      "path": "positions/roblox-experience-designer.md",
+      "sha256": "54efbd3c61ae522b592db900ad8778983629e9a486dd38440018cc8a5ca7ed1b"
+    },
+    {
+      "id": "roblox-systems-scripter",
+      "name": "Roblox 系统脚本工程师",
+      "description": "负责用Luau实现Roblox体验的服务端系统：游戏逻辑、客户端与服务端通信、数据持久化和模块架构。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/roblox-studio/roblox-systems-scripter.md"
+      },
+      "path": "positions/roblox-systems-scripter.md",
+      "sha256": "58e586aa3733f267bbf58908003c1197519c7d92e55c15a447e6addf37d4ec6a"
+    },
+    {
+      "id": "technical-artist",
+      "name": "技术美术",
+      "description": "负责在美术与引擎之间做翻译，把视觉目标落实为在目标平台预算内可运行的技术方案。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/technical-artist.md"
+      },
+      "path": "positions/technical-artist.md",
+      "sha256": "665dc6518e30d6da231c2dd50579c52f1ee7bac8294b637f5e5af0cbd5563f4a"
+    },
+    {
+      "id": "unity-architect",
+      "name": "Unity 架构师",
+      "description": "负责Unity项目的系统架构：以ScriptableObject（可脚本化资源对象）为核心的数据驱动设计、事件通道、单一职责组件和自包含…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/unity/unity-architect.md"
+      },
+      "path": "positions/unity-architect.md",
+      "sha256": "5d66ccaaade8c8f6ffdf74c6934a07a887cfebf7e353e2d87ef8ffda2ab13e22"
+    },
+    {
+      "id": "unity-editor-tool-developer",
+      "name": "Unity 编辑器工具开发者",
+      "description": "负责构建Unity编辑器扩展：自定义窗口、属性绘制、资源导入处理器、菜单与右键快捷操作、构建前校验。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/unity/unity-editor-tool-developer.md"
+      },
+      "path": "positions/unity-editor-tool-developer.md",
+      "sha256": "0e83dc53c735e8c8db92edbef8e4658b2902410a90bed77865a4efc79a3d6641"
+    },
+    {
+      "id": "unity-multiplayer-engineer",
+      "name": "Unity 多人游戏工程师",
+      "description": "负责用Unity的NetcodeforGameObjects（NGO）与UnityGamingServices（Relay、Lobby）…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/unity/unity-multiplayer-engineer.md"
+      },
+      "path": "positions/unity-multiplayer-engineer.md",
+      "sha256": "4861ce16dde57b2f63210806624ca5f6b1ad29ddc03ec38c53d6fe0a1df3bfb9"
+    },
+    {
+      "id": "unity-shader-graph-artist",
+      "name": "Unity Shader Graph 美术师",
+      "description": "负责Unity项目里材质的视觉实现与性能达标，用ShaderGraph保持美术可编辑性，在性能关键处改写成HLSL。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/unity/unity-shader-graph-artist.md"
+      },
+      "path": "positions/unity-shader-graph-artist.md",
+      "sha256": "4a6b3e4f976fe8bc8f0ec1c1d2abc883840839d3f599b6164c7e21496035702f"
+    },
+    {
+      "id": "unreal-multiplayer-architect",
+      "name": "Unreal 多人游戏架构师",
+      "description": "负责UnrealEngine5多人系统的整体网络架构。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/unreal-engine/unreal-multiplayer-architect.md"
+      },
+      "path": "positions/unreal-multiplayer-architect.md",
+      "sha256": "b92e0fcd047eb02d4d460b4fb89b31450cc0ea6869bb5a7a03b0336fe6de8394"
+    },
+    {
+      "id": "unreal-systems-engineer",
+      "name": "Unreal 系统工程师",
+      "description": "负责UnrealEngine5项目的底层系统实现。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/unreal-engine/unreal-systems-engineer.md"
+      },
+      "path": "positions/unreal-systems-engineer.md",
+      "sha256": "8f9ebff26560508d41b2b58a1a8a574fd4e7cf50965be3ee8af4b6b7dacc0d79"
+    },
+    {
+      "id": "unreal-technical-artist",
+      "name": "Unreal 技术美术",
+      "description": "负责UnrealEngine项目视觉管线从美术资源到引擎实现的落地。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/unreal-engine/unreal-technical-artist.md"
+      },
+      "path": "positions/unreal-technical-artist.md",
+      "sha256": "7938383edcf4a6f02e3a13e39a37bd6a60daabb0d676773a4715e66aa2114b81"
+    },
+    {
+      "id": "unreal-world-builder",
+      "name": "Unreal 世界构建师",
+      "description": "负责UnrealEngine5开放世界环境的规模化搭建与流式运行。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "game-development/unreal-engine/unreal-world-builder.md"
+      },
+      "path": "positions/unreal-world-builder.md",
+      "sha256": "ad0e4579845f870b204b8e8921ddee96a2b0543c32d96523d272571781dc1a99"
+    },
+    {
+      "id": "performance-reviewer",
+      "name": "绩效管理专家",
+      "description": "负责企业绩效体系的设计与运营：目标工具选型（OKR、KPI或双轨制）、考核周期与评估流程、绩效校准、等级分布和结果应用（薪酬、晋升、改进…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "hr/hr-performance-reviewer.md"
+      },
+      "path": "positions/performance-reviewer.md",
+      "sha256": "ec85041cd0f1e368f3a6c5067c432a1347715984b546f585e8493de2a2aecbf8"
+    },
+    {
+      "id": "recruiter",
+      "name": "招聘专家",
+      "description": "负责从用人需求到人员入职的全链路招聘：岗位画像对齐、编制与预算确认、渠道运营与人才寻访、简历筛选、面试组织、录用谈判、背景调查和入职衔接。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "hr/hr-recruiter.md"
+      },
+      "path": "positions/recruiter.md",
+      "sha256": "c635d83cf8c6f5a74c17ce8d415ed10fdaaedfa6e1a3d5e60a1fdc5c577b7302"
+    },
+    {
+      "id": "contract-reviewer",
+      "name": "合同审查专家",
+      "description": "负责各类商业合同的法律风险识别、条款审查与修改建议，覆盖买卖合同、服务与委托、技术开发、劳动、租赁、股权投资和加盟代理等类型。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "legal/legal-contract-reviewer.md"
+      },
+      "path": "positions/contract-reviewer.md",
+      "sha256": "f12fcba4247a9c57207bcccd8873ea7b5f1a592528ece61d26618dfcabebb1fa"
+    },
+    {
+      "id": "policy-writer",
+      "name": "制度文件撰写专家",
+      "description": "负责企业合规制度体系与面向用户的法律文书撰写，覆盖个人信息保护、数据安全与网络安全相关的内部管理制度、隐私政策、用户协议。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "legal/legal-policy-writer.md"
+      },
+      "path": "positions/policy-writer.md",
+      "sha256": "5fdf24d67256569512fb093adc7036b392a920ceb66b79f0403b465de7412b2d"
+    },
+    {
+      "id": "aeo-foundations",
+      "name": "AEO 基础架构师",
+      "description": "负责站点在搜索、答案引擎与浏览型智能体面前的技术可达性。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-aeo-foundations.md"
+      },
+      "path": "positions/aeo-foundations.md",
+      "sha256": "cc16e8645428871a106cb3d0ae09714931deb43a3ff1849e16b1b21350ac591d"
+    },
+    {
+      "id": "email-strategist",
+      "name": "邮件营销策略师",
+      "description": "负责把客户关系管理数据与邮件发送平台打通，设计分群架构、生命周期自动化序列、可送达性管理和衡量体系。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-email-strategist.md"
+      },
+      "path": "positions/email-strategist.md",
+      "sha256": "005bd99d21b93ccfcbace621e6f769e0187c4d0f61ef9e1f0d0f96b7946d801d"
+    },
+    {
+      "id": "global-podcast-strategist",
+      "name": "全球播客策略师",
+      "description": "负责播客节目的定位、内容引擎、分发与变现场景的整体策略。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-global-podcast-strategist.md"
+      },
+      "path": "positions/global-podcast-strategist.md",
+      "sha256": "e778834698b30dda514d883f9973dbf928399da4e316dac17f6e82868dd0da59"
+    },
+    {
+      "id": "multi-platform-publisher",
+      "name": "多平台发布编排官",
+      "description": "负责把一篇中文内容改编成各平台原生稿件并编排投递到知乎、小红书、CSDN、B站、公众号、掘金等多个内容平台。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-multi-platform-publisher.md"
+      },
+      "path": "positions/multi-platform-publisher.md",
+      "sha256": "7b5ce0bb8160108f23a1b1951371a1dcfb4da8fcb5148bbfbec44455014ec553"
+    },
+    {
+      "id": "pr-communications-manager",
+      "name": "PR 与传播经理",
+      "description": "负责组织声誉的主动塑造与守护：媒体关系与选题提案、新闻稿与发布策略、危机传播与应急声明、高管思想领导力、内部沟通传达和传播效果衡量。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-pr-communications-manager.md"
+      },
+      "path": "positions/pr-communications-manager.md",
+      "sha256": "45dde5951e714fa9bb3432699d43e8231c1b395c1efdf81316e0daf227e623a9"
+    },
+    {
+      "id": "x-twitter-intelligence-analyst",
+      "name": "X/Twitter 情报分析师",
+      "description": "负责把X/Twitter上的公开活动转化为可支撑决策的情报。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-x-twitter-intelligence-analyst.md"
+      },
+      "path": "positions/x-twitter-intelligence-analyst.md",
+      "sha256": "4dd4d4bd508bde73eb2e8562ab407cc3761680477a5cebfdd21a591ae764eaa2"
+    },
+    {
+      "id": "agentic-search-optimizer",
+      "name": "智能搜索优化师",
+      "description": "负责站点面向AI浏览智能体的「任务可完成度」：不是让搜索引擎给页面排名，也不是让AI助手引用来源。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-agentic-search-optimizer.md"
+      },
+      "path": "positions/agentic-search-optimizer.md",
+      "sha256": "f7bf5c9a9e034006add23cc15e8af845a8b9a8a2f5f062c8f06ecc367f820330"
+    },
+    {
+      "id": "ai-citation-strategist",
+      "name": "AI 搜索可见性与 GEO 策略师",
+      "description": "负责品牌在生成式搜索与回答系统（对话式AI搜索、搜索引擎的AI回答功能、AI浏览器与问答产品等）中的可见性。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-ai-citation-strategist.md"
+      },
+      "path": "positions/ai-citation-strategist.md",
+      "sha256": "0dcd25d7e392863ea250d2d6dd2de1a9cfdb4012891806aa3fe0a785464cd3ca"
+    },
+    {
+      "id": "app-store-optimizer",
+      "name": "应用商店优化师",
+      "description": "负责应用在iOSAppStore与Android各应用商店的可发现性与列表转化：通过关键词研究、元数据撰写、视觉素材与预览视频优化。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-app-store-optimizer.md"
+      },
+      "path": "positions/app-store-optimizer.md",
+      "sha256": "61a3f919ba66ec8a18f7752ff5e7c50076b807a4c0009aef3d0bbce54a4bb7c9"
+    },
+    {
+      "id": "baidu-seo-specialist",
+      "name": "百度 SEO 专家",
+      "description": "负责网站在百度搜索中的自然流量获取，覆盖技术收录、中文关键词布局、内容质量与百度自有生态（百科、知道、贴吧、文库、百家号、智能小程序）的…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-baidu-seo-specialist.md"
+      },
+      "path": "positions/baidu-seo-specialist.md",
+      "sha256": "38705f8306197270b4ce8e2bf938d6168b7b2963ac80aec38cb25e1e21988816"
+    },
+    {
+      "id": "book-co-author",
+      "name": "图书联合作者",
+      "description": "为创始人、专家和一线实操者协作撰写思想领导力类图书：把语音笔记、访谈碎片、粗要点和定位策略，组织成结构清晰、以第一人称说话的长篇章节。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-book-co-author.md"
+      },
+      "path": "positions/book-co-author.md",
+      "sha256": "52af8fbe589bfc23ded0461a550d1563a6f30df141bb5dda3c42281c090aaa29"
+    },
+    {
+      "id": "carousel-growth-engine",
+      "name": "轮播图增长引擎",
+      "description": "负责把任意网站变成可日更的短视频平台轮播内容：抓取站点提取真实卖点、评价与品牌视觉，用图像生成产出风格统一的六张竖版图。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-carousel-growth-engine.md"
+      },
+      "path": "positions/carousel-growth-engine.md",
+      "sha256": "e75cd1ba9463e871c25a09f724de4edfcef635bc2b6831e91029636bf4ba963a"
+    },
+    {
+      "id": "china-market-localization-strategist",
+      "name": "中国市场本地化策略师",
+      "description": "负责把全球品牌或产品真正落进中国消费市场：监测各平台热榜与行业信号，把趋势转成选品、卖点、内容与渠道的可执行方案，并按阶段推进上市。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-china-market-localization-strategist.md"
+      },
+      "path": "positions/china-market-localization-strategist.md",
+      "sha256": "abad16fc276b023cf21cc1885272d44b52e38a1414e2e46bc4830520707f27c4"
+    },
+    {
+      "id": "daily-news-briefing",
+      "name": "新闻情报官",
+      "description": "负责内容生产线的第一环：从国内外多个信源实时采集新闻，去重合并、交叉验证、分级筛选，输出下游可直接使用的结构化简报。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-daily-news-briefing.md"
+      },
+      "path": "positions/daily-news-briefing.md",
+      "sha256": "22441f8e0a9787f495864f9ad167701d07a397d9e672f6082752f7c0d1f6446c"
+    },
+    {
+      "id": "china-ecommerce-operator",
+      "name": "中国电商运营专家",
+      "description": "负责品牌在淘宝天猫、拼多多、京东、抖音店铺等多个平台的整体经营：商品上架与详情页、自然搜索与付费投放的组合、店铺评分维护、直播与内容联动。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-china-ecommerce-operator.md"
+      },
+      "path": "positions/china-ecommerce-operator.md",
+      "sha256": "e0eb23de579135af5e98363afcb2e95f36fbd6588c8ff1c6ff6e6a636c52ab39"
+    },
+    {
+      "id": "content-creator",
+      "name": "内容创作者",
+      "description": "负责把一个内容点子做出多平台版本，并让每篇内容都对应明确的受众、目标和可追踪的效果。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-content-creator.md"
+      },
+      "path": "positions/content-creator.md",
+      "sha256": "42d3db2fa0eb71a40ca526a8804a9856372ef3380e48783356d4cd8a1fab0e4b"
+    },
+    {
+      "id": "cross-border-ecommerce",
+      "name": "跨境电商运营专家",
+      "description": "负责中国卖家在海外平台的全链路经营：选品与市场评估、多语言商品页、平台广告投放、国际物流与海外仓、税务与产品合规、收款与汇率、品牌注册与…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-cross-border-ecommerce.md"
+      },
+      "path": "positions/cross-border-ecommerce.md",
+      "sha256": "ad6efb211a5f33b1cf6b743cad32c1cdc06d52a91585578030cd1cc0ef11aef9"
+    },
+    {
+      "id": "douyin-strategist",
+      "name": "抖音策略师",
+      "description": "负责抖音账号的内容策划、流量运营与直播带货：设计高完播的短视频结构、规划系列内容矩阵、管理自然与付费流量的配比、搭建直播间选品与话术节奏。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-douyin-strategist.md"
+      },
+      "path": "positions/douyin-strategist.md",
+      "sha256": "205dfe8723754107b9b61029521ccfd09e1192e5ec209d07b01f47ad07fb2c30"
+    },
+    {
+      "id": "ecommerce-operator",
+      "name": "电商运营师",
+      "description": "负责单店到多店的日常经营与链接优化：选品与价格带定位、标题与主图详情页、SKU结构、搜索与推荐流量的获取、评价与问大家维护、客服转化。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-ecommerce-operator.md"
+      },
+      "path": "positions/ecommerce-operator.md",
+      "sha256": "fc3ab9f406056d4c83028a746e79a0d95b1852df2596a1369eb0e92593cc7371"
+    },
+    {
+      "id": "growth-hacker",
+      "name": "增长黑客",
+      "description": "负责用低成本实验撬动用户增长：先诊断获客、激活、留存、营收、推荐各环节的瓶颈，再针对掉得最多的一环设计可验证实验。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-growth-hacker.md"
+      },
+      "path": "positions/growth-hacker.md",
+      "sha256": "94dd5c54e0395cb7a7f20c92d69fc0a003c1e03d712a1c36fabaaeb5452d781d"
+    },
+    {
+      "id": "instagram-curator",
+      "name": "Instagram 策展师",
+      "description": "负责品牌在Instagram的视觉体系与内容运营：建立统一的色彩、字体、摄影与图形语言，让主页一眼可辨。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-instagram-curator.md"
+      },
+      "path": "positions/instagram-curator.md",
+      "sha256": "4f401d8b88b50ab453270b71cb41da42efa53807eebf52843f40aff0b09522de"
+    },
+    {
+      "id": "knowledge-commerce-strategist",
+      "name": "知识付费产品策划师",
+      "description": "负责把专业知识变成可持续交付、可规模销售的付费产品：设计从免费内容到专栏、训练营、付费社群、一对一咨询的产品阶梯，选择合适平台。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-knowledge-commerce-strategist.md"
+      },
+      "path": "positions/knowledge-commerce-strategist.md",
+      "sha256": "00578ec1c78293252cab195b219c6688f4945bede476438ec73ddd596be887f6"
+    },
+    {
+      "id": "kuaishou-strategist",
+      "name": "快手策略师",
+      "description": "负责在快手生态内规划账号定位、内容节奏与直播电商路径。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-kuaishou-strategist.md"
+      },
+      "path": "positions/kuaishou-strategist.md",
+      "sha256": "7034c55d4a881ef4194afae5b38d02b00aae457dcc7336fc6bfb34bf4a603048"
+    },
+    {
+      "id": "linkedin-content-creator",
+      "name": "LinkedIn 内容创作专家",
+      "description": "负责为创始人、求职者、技术人、转行者和B2B从业者设计LinkedIn上的个人品牌内容，把专业能力转成可被搜索到、可被主动联系的内容资产。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-linkedin-content-creator.md"
+      },
+      "path": "positions/linkedin-content-creator.md",
+      "sha256": "3674b18a6f63f0bc0123967e6545904617a9ed329a8791d357d16ba0f461096e"
+    },
+    {
+      "id": "livestream-commerce-coach",
+      "name": "直播电商主播教练",
+      "description": "负责直播间的全链路诊断、话术训练和流量结构调优。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-livestream-commerce-coach.md"
+      },
+      "path": "positions/livestream-commerce-coach.md",
+      "sha256": "983d18cba520689c973c31b2a14e2316d781da2e9ea777c482c73233f42f75ba"
+    },
+    {
+      "id": "podcast-strategist",
+      "name": "播客内容策略师",
+      "description": "负责一档中文音频节目的定位、选题规划、制作规范与多平台分发。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-podcast-strategist.md"
+      },
+      "path": "positions/podcast-strategist.md",
+      "sha256": "8c06b8f31adbad00c7b6ad9d6736d20b8233aafa1fe0214100cbc40d79f1436f"
+    },
+    {
+      "id": "private-domain-operator",
+      "name": "私域流量运营师",
+      "description": "负责企业微信私域体系的搭建与日常运营，涵盖渠道活码与欢迎语配置、客户标签体系、社群分层、生命周期触达和转化漏斗管理。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-private-domain-operator.md"
+      },
+      "path": "positions/private-domain-operator.md",
+      "sha256": "d09783074b3b0efd0fbda7f8d6613548b8c4db9a3cd21eb30c077843c2b35fa3"
+    },
+    {
+      "id": "reddit-community-builder",
+      "name": "Reddit 社区运营",
+      "description": "负责在Reddit相关子版块里建立可被信任的参与者身份，并用长期的真实贡献换取品牌口碑。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-reddit-community-builder.md"
+      },
+      "path": "positions/reddit-community-builder.md",
+      "sha256": "04ac96ee7bb301c04c85e9de6fe3fece252894a2e6ca8dfe9eeb9709762974fa"
+    },
+    {
+      "id": "developer-community-builder",
+      "name": "开发者社区建设专家",
+      "description": "负责开发者社区的结构设计、成员激活、贡献者培养与健康度监控，覆盖即时通讯群组、代码托管平台的讨论区、论坛和线下活动等载体。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-developer-community-builder.md"
+      },
+      "path": "positions/developer-community-builder.md",
+      "sha256": "32c33d591700c359ddccb779f5d02437c629fbe8772d2d6ac233e805153481bb"
+    },
+    {
+      "id": "seo-specialist",
+      "name": "SEO 与自然搜索增长专家",
+      "description": "负责把自然搜索做成一条可验证的链路：搜索需求→可抓取可索引→与意图匹配的页面→可见性→有效点击→线索或成交。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-seo-specialist.md"
+      },
+      "path": "positions/seo-specialist.md",
+      "sha256": "568fadcfbdc27d1439106b0b47d401feeb4547d095750f54d1773d935fb3bec4"
+    },
+    {
+      "id": "search-growth-orchestrator",
+      "name": "搜索增长编排器",
+      "description": "负责在搜索增长项目里决定谁来做、按什么顺序做、哪一层归谁负责。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-search-growth-orchestrator.md"
+      },
+      "path": "positions/search-growth-orchestrator.md",
+      "sha256": "a7fafa273dab01b669165bf0e21c543f293d7b0c7f9fa16966b0333fb7bb25e5"
+    },
+    {
+      "id": "short-video-editing-coach",
+      "name": "短视频剪辑指导师",
+      "description": "负责短视频后期全流程的技术与审美把关：从需求确认、素材评估、粗剪叙事、精剪节奏，到调色、音频、字幕、导出与多平台适配。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-short-video-editing-coach.md"
+      },
+      "path": "positions/short-video-editing-coach.md",
+      "sha256": "248d57992cb241a6140e13e98ba03775ba99ebde9c31588137077bd7d1ee93d2"
+    },
+    {
+      "id": "social-media-strategist",
+      "name": "社交媒体策略师",
+      "description": "负责把分散在各职业社交平台上的动作串成一盘棋：定每个平台承担什么商业目标、发什么、什么时候发、预算怎么分。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-social-media-strategist.md"
+      },
+      "path": "positions/social-media-strategist.md",
+      "sha256": "315583a7c7ecac5cc7badfc45852d5cabe46ebd875a734f5fcdf6a609092a56e"
+    },
+    {
+      "id": "tiktok-strategist",
+      "name": "TikTok 策略师",
+      "description": "负责在TikTok上做面向海外年轻受众的内容策略与增长：判断当下哪些趋势、音频和内容形式值得品牌介入，设计三秒开场的爆款结构。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-tiktok-strategist.md"
+      },
+      "path": "positions/tiktok-strategist.md",
+      "sha256": "0e6a2004283491a17fcba0ca54a5bac4c1b3528b2938a90c91ab3b694c77ea01"
+    },
+    {
+      "id": "video-optimization-specialist",
+      "name": "视频优化专家",
+      "description": "负责长视频在视频平台上的包装与留存优化：标题与封面的组合、前三秒与前三十秒的钩子、章节节点与节奏、描述与标签等元数据。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-video-optimization-specialist.md"
+      },
+      "path": "positions/video-optimization-specialist.md",
+      "sha256": "2a12d2d77e2e0cd0603c531148df827626c7a5444680992720f51fc40d574378"
+    },
+    {
+      "id": "twitter-engager",
+      "name": "Twitter 互动官",
+      "description": "负责在实时信息流里参与对话而非单向广播：跟踪行业话题与新闻，用有价值的评论和连载短帖建立专业声音，日常回复提及与私信，组织音频直播讨论。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-twitter-engager.md"
+      },
+      "path": "positions/twitter-engager.md",
+      "sha256": "862e237e51709ce9a48cd695429eb18916fd0e27c8d462ee33167566f78518de"
+    },
+    {
+      "id": "wechat-official-account",
+      "name": "微信公众号管理",
+      "description": "负责公众号这一订阅关系阵地的整体经营：用户画像与内容支柱、三个月滚动编辑日历、图文与投票及小程序等形式的组合、自动回复与关键词体系、菜单…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-wechat-official-account.md"
+      },
+      "path": "positions/wechat-official-account.md",
+      "sha256": "360cc321953de2acc7a0f74f6638c45fdbc8700b8ef9269c72adb1ead03ce13e"
+    },
+    {
+      "id": "wechat-operator",
+      "name": "微信公众号运营",
+      "description": "负责在微信生态内搭起内容入口、社群留存与一对一转化三层触点：公众号负责触达与选题，社群负责互动与培育，个人号负责深聊与成交。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-wechat-operator.md"
+      },
+      "path": "positions/wechat-operator.md",
+      "sha256": "1f6035bbc664b25940a45b70a8375ecf8581843ce371f9ef3e8e31fc387b7850"
+    },
+    {
+      "id": "weibo-strategist",
+      "name": "微博运营策略师",
+      "description": "负责微博账号在公共舆论场中的声量运营：账号定位与人设、话题与热搜策划、超话社区经营、KOL组合投放、粉丝通等信息流投放。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-weibo-strategist.md"
+      },
+      "path": "positions/weibo-strategist.md",
+      "sha256": "e7a2b13b560a98728affe55ef243a2de329304b2db5bb286a400c1fd55620fc0"
+    },
+    {
+      "id": "weixin-channels-strategist",
+      "name": "微信视频号运营策略师",
+      "description": "负责视频号账号的内容策略、社交推荐优化、直播带货与微信生态联动。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-weixin-channels-strategist.md"
+      },
+      "path": "positions/weixin-channels-strategist.md",
+      "sha256": "c0cf2da52bd650f32ca3230b8c5d306cabb59452445da8adef7efae1250e3f60"
+    },
+    {
+      "id": "xiaohongshu-operator",
+      "name": "小红书运营专家",
+      "description": "负责品牌在小红书的种草体系从零搭建与长期运营：内容矩阵设计、达人合作与投放排期、社区口碑管理、搜索占位与数据复盘。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-xiaohongshu-operator.md"
+      },
+      "path": "positions/xiaohongshu-operator.md",
+      "sha256": "4f244e187c05cbaeb708c17c277ebe4af4a779564b57d46f45117443203ef04e"
+    },
+    {
+      "id": "xiaohongshu-specialist",
+      "name": "小红书专家",
+      "description": "负责把品牌塑造成小红书上的生活方式符号：定义品牌的审美人格与叙事主线，捕捉并预判平台趋势，打磨单篇笔记的视觉与文案表达。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-xiaohongshu-specialist.md"
+      },
+      "path": "positions/xiaohongshu-specialist.md",
+      "sha256": "09d2aac867c4b281914740ca8eaaee447c85a610d9f5e55a13ec0e39f4ee27a7"
+    },
+    {
+      "id": "zhihu-strategist",
+      "name": "知乎策略师",
+      "description": "负责品牌在知乎的思想领导力与专业公信力建设：选择能长期建立权威的核心话题，挑选高价值问题作答，运营专栏体系，维护与站内专家和意见领袖的关系。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-zhihu-strategist.md"
+      },
+      "path": "positions/zhihu-strategist.md",
+      "sha256": "c270bc0a84f7fee31fd8bb8d5624878049f0dea72324d98569f09eabf3442d7c"
+    },
+    {
+      "id": "paid-media-auditor",
+      "name": "付费媒体审计师",
+      "description": "负责对既有付费广告账户做系统性体检与诊断，覆盖账户结构、转化追踪与归因、出价与预算、关键词与定向、创意、商品Feed、竞争定位和落地页。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "paid-media/paid-media-auditor.md"
+      },
+      "path": "positions/paid-media-auditor.md",
+      "sha256": "9a0ea723131bff4b3b8ffdf52b904f6307de2daca22ab8c6f9c199f6c41562f2"
+    },
+    {
+      "id": "creative-strategist",
+      "name": "广告创意策略师",
+      "description": "负责付费广告的创意生产与验证：搜索广告的标题与描述矩阵、响应式广告的组合设计、各平台素材形式适配、附加信息配置，以及创意测试与疲劳管理。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "paid-media/paid-media-creative-strategist.md"
+      },
+      "path": "positions/creative-strategist.md",
+      "sha256": "19185f91a74e2a25ca503d465b7b9df78a341e7041170f917d4bfe6b5f0e422f"
+    },
+    {
+      "id": "paid-social-strategist",
+      "name": "社交广告策略师",
+      "description": "负责以Meta、LinkedIn、TikTok、Pinterest、X、Snapchat为主的社交广告全链路设计。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "paid-media/paid-media-paid-social-strategist.md"
+      },
+      "path": "positions/paid-social-strategist.md",
+      "sha256": "bcbf5a5944d67a4bba5dd53501c5c2a9100df2bf6141ccfa39a61b1daba60aa5"
+    },
+    {
+      "id": "ppc-strategist",
+      "name": "PPC 竞价策略师",
+      "description": "负责付费搜索账户的整体架构与增长设计：广告系列分层、出价策略选择与迁移、预算分配、关键词与否定架构、广告系列类型组合、受众信号与跨平台规划。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "paid-media/paid-media-ppc-strategist.md"
+      },
+      "path": "positions/ppc-strategist.md",
+      "sha256": "77b64249dbb88775c7e869dfdaaf7602a1cf6af0fe1ff069a18f6086668729a8"
+    },
+    {
+      "id": "programmatic-buyer",
+      "name": "程序化广告采买专家",
+      "description": "负责展示与程序化媒介采买：自助式展示网络的管理型版位、企业级采买平台的交易搭建、合作媒体与外联、目标客户定向的展示投放。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "paid-media/paid-media-programmatic-buyer.md"
+      },
+      "path": "positions/programmatic-buyer.md",
+      "sha256": "59ce868cf2d596a32387915755253ed744bf682512902c54a532ffeabdb1db85"
+    },
+    {
+      "id": "search-query-analyst",
+      "name": "搜索词分析师",
+      "description": "负责搜索广告中\"用户实际搜了什么\"与\"广告主实际为哪些词付费\"之间的数据层。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "paid-media/paid-media-search-query-analyst.md"
+      },
+      "path": "positions/search-query-analyst.md",
+      "sha256": "1a88e2db844e64756dbc1176f23e1f5b162b5fa4db8424dc2eb039e2fa52cf13"
+    },
+    {
+      "id": "tracking-specialist",
+      "name": "追踪与归因专家",
+      "description": "负责付费媒体的数据基座：标签管理容器结构、分析平台的事件体系与电商数据层、各广告平台的转化代码与增强型转化、服务端事件与去重、归因模型选…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "paid-media/paid-media-tracking-specialist.md"
+      },
+      "path": "positions/tracking-specialist.md",
+      "sha256": "6dbb3d23b6f77c8638f64b2fa6765af93c51766bbd4bce3de016b18303b381e7"
+    },
+    {
+      "id": "behavioral-nudge-engine",
+      "name": "行为助推引擎",
+      "description": "负责设计产品内的主动式引导与激励节奏：根据用户的偏好、状态与完成历史，决定何时提醒、用什么渠道、给出多大规模的下一步，以及如何反馈进展。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "product/product-behavioral-nudge-engine.md"
+      },
+      "path": "positions/behavioral-nudge-engine.md",
+      "sha256": "f33adb089f7bea003ab1e4b0432c580c6a8fce52bbc5bc47d8357ae161e67f56"
+    },
+    {
+      "id": "feedback-synthesizer",
+      "name": "反馈分析师",
+      "description": "负责把分散在应用商店评价、客服工单、社交平台、调研问卷和访谈里的用户声音聚合成可执行的产品洞察。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "product/product-feedback-synthesizer.md"
+      },
+      "path": "positions/feedback-synthesizer.md",
+      "sha256": "6e8140cff2bfade75a568b8e2793e5351659e029cac7a87cc20da62d40a38858"
+    },
+    {
+      "id": "dx-engineer",
+      "name": "DX 工程师",
+      "description": "负责开发者体验的全链路：SDK方法签名与惯用法设计、可运行代码示例、首次上手的\"第零天\"体验、错误信息撰写、文档与示例库审计。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "product/product-dx-engineer.md"
+      },
+      "path": "positions/dx-engineer.md",
+      "sha256": "0214c573f745651f4572c92878b444cffc47a321d439a73d0728d1dc7b85c29c"
+    },
+    {
+      "id": "sprint-prioritizer",
+      "name": "Sprint 排序师",
+      "description": "负责需求优先级的量化排序与迭代规划：汇总并去重各来源需求、用统一模型评估价值、拆解到可独立交付的粒度、按团队真实吞吐量排入迭代、预留技术…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "product/product-sprint-prioritizer.md"
+      },
+      "path": "positions/sprint-prioritizer.md",
+      "sha256": "4f071b9d8d6da59d3bb62e3b3279a96ed1fb01a75f829a78e7e65c7eecd5971f"
+    },
+    {
+      "id": "trend-researcher",
+      "name": "趋势研究员",
+      "description": "负责追踪行业与技术的演变轨迹，把噪声过滤成可用信号，帮团队在未来6到18个月的时间窗内决定该准备什么、不该押注什么。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "product/product-trend-researcher.md"
+      },
+      "path": "positions/trend-researcher.md",
+      "sha256": "ba15b32c8c45a65a9266f504f6f844eb706f1a141f753d1caaa9517278d9891f"
+    },
+    {
+      "id": "meeting-notes-specialist",
+      "name": "会议纪要专家",
+      "description": "负责把会议逐字记录、零散要点、语音备忘转写或凭记忆记下的笔记，整理成结构稳定的四段式记录：日期与出席者、决议、行动项、待解决问题。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "project-management/project-management-meeting-notes-specialist.md"
+      },
+      "path": "positions/meeting-notes-specialist.md",
+      "sha256": "71b6da0a67f73ad24b1ad303c685efe4aec50f8b6632b915102ee3b4d053c66e"
+    },
+    {
+      "id": "experiment-tracker",
+      "name": "实验追踪员",
+      "description": "负责用实验方法支撑产品决策：把模糊的产品想法转成可检验的假设，设计A/B测试或多变量实验，追踪实验从上线到出结论的完整生命周期。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "project-management/project-management-experiment-tracker.md"
+      },
+      "path": "positions/experiment-tracker.md",
+      "sha256": "c4be616549820176dfe451bf05c1369e95f6ed43473db4f23532c389795fc693"
+    },
+    {
+      "id": "jira-workflow-steward",
+      "name": "Jira工作流管家",
+      "description": "负责让每一次代码交付都能从需求工单追溯到分支、提交、拉取请求直到发布，把模糊需求切成原子化的工作单元。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "project-management/project-management-jira-workflow-steward.md"
+      },
+      "path": "positions/jira-workflow-steward.md",
+      "sha256": "76bf4894bca0ee2a768333a5451b2618f775db6f02912686d0436aaeb318134e"
+    },
+    {
+      "id": "studio-operations",
+      "name": "工作室运营",
+      "description": "负责工作室日常运转的底层支撑：把重复性的协作、资源、设备、供应商与信息管理固化成可执行的流程，找出拖慢团队节奏的瓶颈并消除。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "project-management/project-management-studio-operations.md"
+      },
+      "path": "positions/studio-operations.md",
+      "sha256": "6451757e06f0b5ab96844b52ea3f259688d24120f523371642fe2cd2d348075f"
+    },
+    {
+      "id": "studio-producer",
+      "name": "工作室制片人",
+      "description": "负责工作室层面的项目组合统筹，而不是单个项目的执行。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "project-management/project-management-studio-producer.md"
+      },
+      "path": "positions/studio-producer.md",
+      "sha256": "ef97ef135be508cdf4b0061cf996db12233953b81823ba1488e5107152535347"
+    },
+    {
+      "id": "project-manager-senior",
+      "name": "高级项目经理",
+      "description": "负责把规格说明书还原成开发者能直接执行的任务清单。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "project-management/project-manager-senior.md"
+      },
+      "path": "positions/project-manager-senior.md",
+      "sha256": "3b028a94c64beaf7d4e46aef32db1c3b62fd284920b85c1fd64513f81251543a"
+    },
+    {
+      "id": "offer-lead-gen-strategist",
+      "name": "Offer 与 Lead Gen 策略师",
+      "description": "负责销售漏斗最顶端的结构设计：定义被售卖的offer（报价组合）、设计能独立交付价值的获客内容（leadmagnet。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "sales/sales-offer-lead-gen-strategist.md"
+      },
+      "path": "positions/offer-lead-gen-strategist.md",
+      "sha256": "c040b2ca983851300a2ae57b2c43718b2251183df629bf0d94d8678868975a70"
+    },
+    {
+      "id": "account-strategist",
+      "name": "客户拓展策略师",
+      "description": "负责成交之后的收入增长：在已有客户账号里系统性地发现增购与交叉销售机会，经营干系人关系网络，设计季度业务回顾，并对净收入留存负责。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "sales/sales-account-strategist.md"
+      },
+      "path": "positions/account-strategist.md",
+      "sha256": "5b356761ed481d1b7bedeaea22e4b4767a51bf401947ade5465a5badb155ab4f"
+    },
+    {
+      "id": "sales-coach",
+      "name": "销售教练",
+      "description": "负责提升销售团队的能力，而不亲自背单。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "sales/sales-coach.md"
+      },
+      "path": "positions/sales-coach.md",
+      "sha256": "119a3331d42256f43da181ddf245a51ce780eea1955759ca11a5b90bda12c527"
+    },
+    {
+      "id": "deal-strategist",
+      "name": "赢单策略师",
+      "description": "负责单笔复杂B2B销售机会的策略与资质审查：对照完整资质框架给每笔单子打分、暴露缺口、判定它是否真的可赢，并给出按阶段推进的赢单计划。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "sales/sales-deal-strategist.md"
+      },
+      "path": "positions/deal-strategist.md",
+      "sha256": "2b41b51087f48b4aa741c6e04f3042cbea7bd61d1800b3fc235dd77640ff54d0"
+    },
+    {
+      "id": "discovery-coach",
+      "name": "Discovery 教练",
+      "description": "负责把客户经理和销售开发人员训练成更好的访谈者，专攻需求挖掘通话（Discovery）的提问设计、现状诊断、差距量化和通话结构。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "sales/sales-discovery-coach.md"
+      },
+      "path": "positions/discovery-coach.md",
+      "sha256": "082639f4d0a77f5fac20535565722186c76dacaa283114b8292f4dd5f3c1dae4"
+    },
+    {
+      "id": "sales-engineer",
+      "name": "售前工程师",
+      "description": "负责在单子进入采购流程前赢下技术评估。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "sales/sales-engineer.md"
+      },
+      "path": "positions/sales-engineer.md",
+      "sha256": "ddb74572c9d59361ce95d14be9369c8315795070d5a8831d28922253559dda33"
+    },
+    {
+      "id": "outbound-strategist",
+      "name": "Outbound 策略师",
+      "description": "负责用证据触发的方式主动开发销售管道：定义可证伪的理想客户画像并分层，建立信号字典，设计多渠道触达序列。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "sales/sales-outbound-strategist.md"
+      },
+      "path": "positions/outbound-strategist.md",
+      "sha256": "c635cf8d3b69d07f23d707879095a77e30c2f1dc0c9bdecd414619038142e411"
+    },
+    {
+      "id": "pipeline-analyst",
+      "name": "Pipeline 分析师",
+      "description": "负责把销售管道数据变成可行动的判断：诊断管道健康度、计算流转速度、评估单子质量、构建带置信区间的收入预测。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "sales/sales-pipeline-analyst.md"
+      },
+      "path": "positions/pipeline-analyst.md",
+      "sha256": "5ac31572820c823a8fe7abbe6b714979dd13027e727a7a793d269ca84b216416"
+    },
+    {
+      "id": "proposal-strategist",
+      "name": "投标策略师",
+      "description": "负责把招标文件与销售机会转化成有说服力的赢标方案，而不是一份只求合规的答卷。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "sales/sales-proposal-strategist.md"
+      },
+      "path": "positions/proposal-strategist.md",
+      "sha256": "4d203a31fdb3f5cd6f687744616a935a50100534faba7bf859e0afbf0171b7a4"
+    },
+    {
+      "id": "macos-spatial-metal-engineer",
+      "name": "macOS Metal 空间工程师",
+      "description": "负责Apple平台上的原生立体渲染通道：用Swift和Metal构建macOS伴侣端渲染器。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "spatial-computing/macos-spatial-metal-engineer.md"
+      },
+      "path": "positions/macos-spatial-metal-engineer.md",
+      "sha256": "a61f98b7d537723ea7205e150978b447765d726ec07a37207e9a031fb7e3955f"
+    },
+    {
+      "id": "terminal-integration-specialist",
+      "name": "终端集成专家",
+      "description": "负责在Swift应用里嵌入一个行为正确的终端：终端模拟、文本渲染优化与SwiftTerm集成。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "spatial-computing/terminal-integration-specialist.md"
+      },
+      "path": "positions/terminal-integration-specialist.md",
+      "sha256": "11ae835cf2a592cc8151463f427d30799d22421a8f11fe37f12cd12250b20d49"
+    },
+    {
+      "id": "visionos-spatial-engineer",
+      "name": "visionOS 空间工程师",
+      "description": "负责visionOS原生应用的空间场景架构与实现。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "spatial-computing/visionos-spatial-engineer.md"
+      },
+      "path": "positions/visionos-spatial-engineer.md",
+      "sha256": "0c332d34215fb029073119e15db35763d7cde94e67879bad3968f4c9bbfdc077"
+    },
+    {
+      "id": "xr-cockpit-interaction-specialist",
+      "name": "XR 座舱交互专家",
+      "description": "负责沉浸式座舱环境里的控件与交互设计：为载具、模拟器、指挥中心这类固定坐姿场景，规划控件布局、空间手势映射与反馈通道。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "spatial-computing/xr-cockpit-interaction-specialist.md"
+      },
+      "path": "positions/xr-cockpit-interaction-specialist.md",
+      "sha256": "1198ee1be6a32ff64965d338549e2c1b6e5527935cd7573993f528000908ccfa"
+    },
+    {
+      "id": "xr-immersive-developer",
+      "name": "XR 沉浸式开发者",
+      "description": "负责浏览器端的WebXR应用开发：让AR/VR/XR体验在受限的JavaScript单线程、垃圾回收停顿和有限GPU内存条件下稳定运行。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "spatial-computing/xr-immersive-developer.md"
+      },
+      "path": "positions/xr-immersive-developer.md",
+      "sha256": "2c486a3c292321396903513753b57ef75f055f7b49d74af5d58a947a66d17304"
+    },
+    {
+      "id": "xr-interface-architect",
+      "name": "XR 界面架构师",
+      "description": "负责沉浸式环境的空间界面策略与交互设计：决定信息在三维空间里如何分层、分区、锚定，以及多种输入方式如何并存与降级。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "spatial-computing/xr-interface-architect.md"
+      },
+      "path": "positions/xr-interface-architect.md",
+      "sha256": "0e118dac25f5c37fc3af8e4e2a4a16df7624ce69ce55db1ddaf6d3faeaf2d73a"
+    },
+    {
+      "id": "business-strategist",
+      "name": "商业战略家",
+      "description": "负责回答组织的核心战略问题：在哪些市场、为哪类客户、以什么方式竞争，以及为了赢必须先放弃什么。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/business-strategist.md"
+      },
+      "path": "positions/business-strategist.md",
+      "sha256": "071d0b896b937c6d899a69e2454c36f1d6529e2039b2717972664821ae4a100a"
+    },
+    {
+      "id": "change-management-consultant",
+      "name": "变革管理顾问",
+      "description": "负责组织变革中“人”这一条工作流：在系统上线、组织重构、流程改造、并购整合、文化转型中，评估影响、管理阻力、推动个人完成从认知到巩固的转变。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/change-management-consultant.md"
+      },
+      "path": "positions/change-management-consultant.md",
+      "sha256": "3a3e72a1aaf18c6e467d09174422ff043d389305caf13c1e6daaf1813504d590"
+    },
+    {
+      "id": "authenticity-appraiser",
+      "name": "鉴定评估师",
+      "description": "负责二手奢侈品、腕表、球鞋潮玩与文玩收藏的真伪要点讲解、行情估值和交易风险评估。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/authenticity-appraiser.md"
+      },
+      "path": "positions/authenticity-appraiser.md",
+      "sha256": "55560989f2f6d5967ec17683d25bda0a2b340d861b713ab0e4b7d4c5b9f62155"
+    },
+    {
+      "id": "customer-success-manager",
+      "name": "客户成功经理",
+      "description": "负责让已签约客户真正拿到可量化的业务成果，并据此驱动净收入留存：从导入期的价值实现、持续的健康度监测、季度业务回顾。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/customer-success-manager.md"
+      },
+      "path": "positions/customer-success-manager.md",
+      "sha256": "9c4e12e4e8fb26d5fda9113e7544576a25cb440e0194d30628651968ee057e22"
+    },
+    {
+      "id": "data-privacy-officer",
+      "name": "数据隐私官",
+      "description": "负责组织在收集、处理、共享个人数据时的合规治理：维护处理活动记录、确定合法性基础、审查高风险处理、处理数据主体请求、管理泄露事件、审核供…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/data-privacy-officer.md"
+      },
+      "path": "positions/data-privacy-officer.md",
+      "sha256": "75a306684990562831ecc6877b980172842b71bc99de72abd41283fd8a689a8c"
+    },
+    {
+      "id": "esg-sustainability-officer",
+      "name": "ESG 与可持续发展官",
+      "description": "负责企业环境、社会、治理议题的识别、目标设定、数据核算与对外披露：判断哪些议题真正重要、按公认框架组织报告、核算排放与劳动力等指标。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/esg-sustainability-officer.md"
+      },
+      "path": "positions/esg-sustainability-officer.md",
+      "sha256": "a5eaab57b87f255f2470a16e677571f8d71a3e0f54579844033e21e1fda1203d"
+    },
+    {
+      "id": "grant-writer",
+      "name": "资助申请撰稿人",
+      "description": "负责为非营利组织、科研机构与社会企业争取外部资助：调研资助方、评估契合度、撰写意向函与完整提案、编制预算说明、管理申请日历与结项报告。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/grant-writer.md"
+      },
+      "path": "positions/grant-writer.md",
+      "sha256": "c9a61a8b15d9020ea60e976a808871311fcabf89d424221f5179d9e95eb213d8"
+    },
+    {
+      "id": "ma-integration-manager",
+      "name": "M&A 整合经理",
+      "description": "负责把已签约的并购交易变成能正常运转、能创造价值的合并组织：确定整合方式与运营模式，组织交割前准备，保证交割首日业务不中断，推动百日计划。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/ma-integration-manager.md"
+      },
+      "path": "positions/ma-integration-manager.md",
+      "sha256": "3d542bd764d25c0f468eba141f9fab4eec59a59822e5b6ca731b65c07ab88b66"
+    },
+    {
+      "id": "medical-billing-coding-specialist",
+      "name": "医疗账单与编码专员",
+      "description": "负责医疗机构收入周期的编码与理赔环节：依据病历赋予诊断与操作编码、校验并提交理赔、管理拒付申诉、跟进应收账款、开展编码合规审计与付款方合…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/medical-billing-coding-specialist.md"
+      },
+      "path": "positions/medical-billing-coding-specialist.md",
+      "sha256": "e0edf9115d10667ba763b28be446cbefc96de1dddfd6651de0c949a93c870069"
+    },
+    {
+      "id": "operations-manager",
+      "name": "运营经理",
+      "description": "负责把战略目标翻译成可重复运转的运营系统：梳理流程、消除浪费、做产能规划、建立指标治理、管理供应商服务等级、编写标准作业程序并维护业务连…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/operations-manager.md"
+      },
+      "path": "positions/operations-manager.md",
+      "sha256": "0e9cde7f75db125109051bf41c55db3beb6fe067c3680483444ecd9ca6cce792"
+    },
+    {
+      "id": "organizational-psychologist",
+      "name": "组织心理学家",
+      "description": "负责用应用行为科学的循证框架诊断团队的协作状态：心理安全感、团队效能、职业倦怠风险、组织文化与动机水平，并把诊断转成可执行的干预顺序。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/organizational-psychologist.md"
+      },
+      "path": "positions/organizational-psychologist.md",
+      "sha256": "6f7cda2dbe0009f7ef401efbafdcba283f5a01fe185f1d7f4f59b761279d39ec"
+    },
+    {
+      "id": "personal-growth-mentor",
+      "name": "个人成长导师",
+      "description": "负责把用户含糊的成长诉求拆成可执行的目标系统：区分嘴上说的目标和实际在优化的结果，找出真正的瓶颈，设计习惯、反馈回路和复盘节奏。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/personal-growth-mentor.md"
+      },
+      "path": "positions/personal-growth-mentor.md",
+      "sha256": "a8458c65693426c34565b4857f66d14b86c041b3be7556069774b104c59cb4e7"
+    },
+    {
+      "id": "pricing-analyst",
+      "name": "定价分析师",
+      "description": "负责把定价从拍脑袋变成可复算的决策：拆解成本结构与全负担单位成本，建立竞品与替代方案的价格情报，识别客户的价值度量与支付意愿。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-pricing-analyst.md"
+      },
+      "path": "positions/pricing-analyst.md",
+      "sha256": "1753874432512dd43772af263c3304f0a34ed63838e2a70b7152779040b0a2af"
+    },
+    {
+      "id": "strategy-duel-agent",
+      "name": "策略对决推演师",
+      "description": "负责把对抗性情境转成可推演的博弈模型：明确参与者、可选行动、收益结构、信息是否对称、是否重复博弈，然后按回合推演双方选择。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-strategy-duel-agent.md"
+      },
+      "path": "positions/strategy-duel-agent.md",
+      "sha256": "9009adef39368d3d1d12e3d31ed0805d594bf457b82676dcdbf9a63f1459d6ae"
+    },
+    {
+      "id": "accounts-payable-agent",
+      "name": "应付账款智能体",
+      "description": "负责应付账款的执行环节：按已批准的供应商与合同处理一次性发票、承包商付款和定期账单，选择合适支付通道，验证收款方与金额，保证不重复付款。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/accounts-payable-agent.md"
+      },
+      "path": "positions/accounts-payable-agent.md",
+      "sha256": "f4f8bbdaa824e928c20a513536fe06407ec246a00380cb8f24ccc1f792d31775"
+    },
+    {
+      "id": "agentic-identity-trust",
+      "name": "身份信任架构师",
+      "description": "负责为自主运行的智能体设计身份与信任基础设施：密钥与凭证的签发、轮换、吊销，智能体之间的互相认证，多跳委托的授权链验证。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/agentic-identity-trust.md"
+      },
+      "path": "positions/agentic-identity-trust.md",
+      "sha256": "58da41388d4a504ef59d5d133ac28cfe5d7a66778ef55d3417ad094cc5a960bc"
+    },
+    {
+      "id": "agents-orchestrator",
+      "name": "智能体编排者",
+      "description": "负责把一份规格说明推进到可验收成果：拆出任务清单，组织架构与实现阶段，让每个任务经过独立的实现—验证循环，只有通过质量门禁才允许进入下一项。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/agents-orchestrator.md"
+      },
+      "path": "positions/agents-orchestrator.md",
+      "sha256": "722e4306251faf94c0635cf293e96bcf9394fccb20268daace8b2a963022adda"
+    },
+    {
+      "id": "automation-governance-architect",
+      "name": "自动化治理架构师",
+      "description": "负责判断哪些流程值得自动化、以什么结构实施、哪些环节必须保留人工控制。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/automation-governance-architect.md"
+      },
+      "path": "positions/automation-governance-architect.md",
+      "sha256": "03dd7ff6f27f903e893fee2bb147dfa9005187c159556c271819b1a99b03d86d"
+    },
+    {
+      "id": "livestock-archive-auditor",
+      "name": "养殖档案核对员",
+      "description": "负责逐条核对畜禽养殖档案工作簿与生产日报，按固定口径查出漏填、错填、数量不平、批号未先进先出和日报数据不一致的问题。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/livestock-archive-auditor.md"
+      },
+      "path": "positions/livestock-archive-auditor.md",
+      "sha256": "ba1323ee937f6424b51b6aa476215795af878fefaf4722f457df4c62a8231fd1"
+    },
+    {
+      "id": "civil-engineer",
+      "name": "土木工程师",
+      "description": "负责结构与土木工程的设计分析工作：确定适用规范与设计依据，做重力、侧向、地震与风荷载分析。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-civil-engineer.md"
+      },
+      "path": "positions/civil-engineer.md",
+      "sha256": "5cf14a461d5e1e8001b65c2660d59aa3efa9b201d4237bb8bd6f8309310fb787"
+    },
+    {
+      "id": "corporate-training-designer",
+      "name": "企业培训课程设计师",
+      "description": "负责从业务问题出发设计企业培训方案：做需求诊断，判断差距到底来自能力还是流程、制度与激励；把胜任力要求拆成可衡量的学习目标。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/corporate-training-designer.md"
+      },
+      "path": "positions/corporate-training-designer.md",
+      "sha256": "9feb94270705c82b52e90bb62b03b559a0cb2532ddd56c5e115a93f306b66f64"
+    },
+    {
+      "id": "data-consolidation-agent",
+      "name": "数据整合师",
+      "description": "负责把来自CRM、手工上报表和历史导入文件的销售数据整合成可用的实时仪表盘：统一日期、货币、区域编码等格式差异，计算衍生指标。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/data-consolidation-agent.md"
+      },
+      "path": "positions/data-consolidation-agent.md",
+      "sha256": "2f5ac7c6d9cc995260b0259f41b5322a80f9f5abdb216882e2b9c14f5e002582"
+    },
+    {
+      "id": "gaokao-college-advisor",
+      "name": "高考志愿填报顾问",
+      "description": "负责为考生制定志愿填报方案：确认所在省份的填报模式与批次规则，用位次法为主、线差法为辅分析目标院校与专业组近三年录取情况。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/gaokao-college-advisor.md"
+      },
+      "path": "positions/gaokao-college-advisor.md",
+      "sha256": "09a19a750e5bcf7ad35cd5ec57e62710c89933991653bff6775cff12c548c3e1"
+    },
+    {
+      "id": "government-digital-presales-consultant",
+      "name": "政务数字化售前顾问",
+      "description": "负责政务信息化项目从商机识别到投标落地的售前工作：跟踪政策与预算信号判断项目机会，调研干系人真实诉求，把技术能力翻译成政务语境下的业务价值。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/government-digital-presales-consultant.md"
+      },
+      "path": "positions/government-digital-presales-consultant.md",
+      "sha256": "fff0727d224431004a7d1e43bc4e623d969a5d932b555bb2c2f45f387002381d"
+    },
+    {
+      "id": "healthcare-customer-service",
+      "name": "医疗客服专家",
+      "description": "负责患者就医过程中的非临床支持：预约与改约、账单解释与分期、保险覆盖与事前授权、理赔状态与拒赔申诉转接、服务投诉受理。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/healthcare-customer-service.md"
+      },
+      "path": "positions/healthcare-customer-service.md",
+      "sha256": "7c3ee5346b90f71a401ba410ec16ddde9769e0f0b6ff9993f04a9ac160e99426"
+    },
+    {
+      "id": "healthcare-marketing-compliance",
+      "name": "医疗健康营销合规师",
+      "description": "负责医疗、药品、医疗器械、医美、保健食品与互联网医疗类营销内容的合规审查：确认资质与审批文件是否有效，逐条排查禁用表述与不当承诺。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/healthcare-marketing-compliance.md"
+      },
+      "path": "positions/healthcare-marketing-compliance.md",
+      "sha256": "aa2e814f55d38bed10c9fb3184e0806dd25b6441310c52bb66bec81322f5e80d"
+    },
+    {
+      "id": "hospitality-guest-services",
+      "name": "酒店宾客服务专家",
+      "description": "负责酒店、度假村、餐厅与活动场馆在完整宾客旅程中的服务交付：从预订确认、抵达前沟通、入住接待、住中礼宾与投诉处理。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/hospitality-guest-services.md"
+      },
+      "path": "positions/hospitality-guest-services.md",
+      "sha256": "253a418d947be6732e21fb0ca25a7b0ad7b1e3a10b26022f59f4a96717c57e80"
+    },
+    {
+      "id": "hr-onboarding",
+      "name": "HR 入职管理专家",
+      "description": "负责员工从接受offer到入职满90天的完整落地流程。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/hr-onboarding.md"
+      },
+      "path": "positions/hr-onboarding.md",
+      "sha256": "2e99f22a2c8609359cfe191fff6242aea7e13a83dd67fbe0710531806d9d98b1"
+    },
+    {
+      "id": "identity-graph-operator",
+      "name": "身份图谱操作员",
+      "description": "负责多智能体系统共享的身份图谱运维：把来自不同数据源的记录解析为同一现实世界实体的规范ID（人、公司、产品、交易）。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/identity-graph-operator.md"
+      },
+      "path": "positions/identity-graph-operator.md",
+      "sha256": "d840c32b54885121f97486a7fc425cfecf24916e3c35d52b26621817d5b9f2c8"
+    },
+    {
+      "id": "language-translator",
+      "name": "语言翻译专家",
+      "description": "负责在真实沟通场景中把一种语言的意思准确、自然地传递到另一种语言，覆盖旅行、医疗、商务、法律、日常和书面文件。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/language-translator.md"
+      },
+      "path": "positions/language-translator.md",
+      "sha256": "3c286db2927c2c8f1e33b3ccdd10fd74a9527cd572570fcd07e4d1b83bd438d6"
+    },
+    {
+      "id": "legal-billing-time-tracking",
+      "name": "律所计费与工时专家",
+      "description": "负责律所从工时记录到收入回收的完整计费链条：工时录入规范、计费叙述撰写、发票准备与交付、应收账款账龄与催收、信托账户（客户资金专户）收支…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/legal-billing-time-tracking.md"
+      },
+      "path": "positions/legal-billing-time-tracking.md",
+      "sha256": "969a63c57c31d2669a8d0649c88c50c9c3c4a525a0ce22d5ac5fa3336b6d9b4b"
+    },
+    {
+      "id": "legal-client-intake",
+      "name": "律所客户接案专家",
+      "description": "负责潜在客户第一次接触律所到预约咨询之间的全部环节。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/legal-client-intake.md"
+      },
+      "path": "positions/legal-client-intake.md",
+      "sha256": "969505873a51ea45f3c4dd7a1fa424bdfec00efa0422f005473b756cf5f4aa8b"
+    },
+    {
+      "id": "legal-document-review",
+      "name": "法律文书审查专家",
+      "description": "负责对合同、诉讼文书、不动产协议、公司文件与合规材料做系统性初审。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/legal-document-review.md"
+      },
+      "path": "positions/legal-document-review.md",
+      "sha256": "29295174aab57b6b7760516c1f85683fa6011037a7c8ebffb4ae8f6160554514"
+    },
+    {
+      "id": "loan-officer-assistant",
+      "name": "信贷经理助手",
+      "description": "负责支撑信贷经理完成从借款人首次咨询到放款交割的整条流程。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/loan-officer-assistant.md"
+      },
+      "path": "positions/loan-officer-assistant.md",
+      "sha256": "29bfd6c106b07c25f1fbfb95ed3da9f7de9864a6ac5b6155734a74a3e65c1ceb"
+    },
+    {
+      "id": "lsp-index-engineer",
+      "name": "LSP 索引工程师",
+      "description": "负责把多个语言服务器（LanguageServerProtocol，语言服务器协议）编排成统一的代码智能层：搭建LSP客户端集群。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/lsp-index-engineer.md"
+      },
+      "path": "positions/lsp-index-engineer.md",
+      "sha256": "7f8883b0046b246752756a4a22ea06ee443b67cb9e7eebf8d8f33e6df2cc8741"
+    },
+    {
+      "id": "specialized-prompt-engineer",
+      "name": "提示词工程师",
+      "description": "负责大语言模型提示词的设计、优化与评测：把模糊的业务需求翻译成结构清晰的指令，包括角色与任务界定、约束条件、输出格式、示例与兜底策略。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/prompt-engineer.md"
+      },
+      "path": "positions/specialized-prompt-engineer.md",
+      "sha256": "90f2563420323fbd80382591cd54ca9a69fa0ffb0fb1343ac86f5d6fdcf05bae"
+    },
+    {
+      "id": "recruitment-specialist",
+      "name": "人才获取专家",
+      "description": "负责从岗位需求确认到候选人入职之间的招聘全流程：岗位画像与职位描述优化、渠道投放与简历获取、筛选与面试设计、薪酬竞争力分析、猎头与合作方…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/recruitment-specialist.md"
+      },
+      "path": "positions/recruitment-specialist.md",
+      "sha256": "b8fe242ee806fd30c6f3a4444345ec946e9d92ec44bf697c5433a86f6dc00400"
+    },
+    {
+      "id": "report-distribution-agent",
+      "name": "报告分发师",
+      "description": "负责把已整合好的销售报告按区域与角色规则，准时、准确地投递到对应收件人，支持每日与每周定时分发以及手动触发，并保留可审计的完整投递记录。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/report-distribution-agent.md"
+      },
+      "path": "positions/report-distribution-agent.md",
+      "sha256": "511797e19f50303398e9a2accd0d837864aea4fa31a9ed7b3804085b6f5a9f9f"
+    },
+    {
+      "id": "sales-data-extraction-agent",
+      "name": "销售数据提取师",
+      "description": "负责监控指定目录中的销售报表文件，解析工作簿并提取月累计、年累计与年末预测等关键指标，清洗标准化后写入数据库，供下游报告与分发使用。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/sales-data-extraction-agent.md"
+      },
+      "path": "positions/sales-data-extraction-agent.md",
+      "sha256": "a05576420c07702f4ca711d2736aab7c231194bf11cba9941e0eaf131e9f9592"
+    },
+    {
+      "id": "ai-policy-writer",
+      "name": "AI 治理政策专家",
+      "description": "负责把人工智能相关的监管要求翻译成组织内可执行的治理体系：梳理适用的法律法规与标准，判断产品属于哪类监管对象，评估合规差距。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-ai-policy-writer.md"
+      },
+      "path": "positions/ai-policy-writer.md",
+      "sha256": "1e4d7db639dcafaf3f4dc38b07142d49be22d36551eaf47bcbe77aba9fb7fd4c"
+    },
+    {
+      "id": "cultural-intelligence-strategist",
+      "name": "文化智能策略师",
+      "description": "负责在产品上线前识别界面、文案、视觉与提示词中的隐性排斥和文化误读，把国际化与跨文化适配从\"最后补翻译\"变成架构前提。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-cultural-intelligence-strategist.md"
+      },
+      "path": "positions/cultural-intelligence-strategist.md",
+      "sha256": "2ae982c4b2e01fbe1f2ac7ab61930f07db56750320775eae09023b8ef34f8d69"
+    },
+    {
+      "id": "developer-advocate",
+      "name": "开发者布道师",
+      "description": "负责在外部开发者与内部产品、工程团队之间建立可信的双向通道。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-developer-advocate.md"
+      },
+      "path": "positions/developer-advocate.md",
+      "sha256": "5249eedde65cc1ea224d879c5b829e249a81fd0c4170d58373ee40939544945c"
+    },
+    {
+      "id": "document-generator",
+      "name": "文档生成器",
+      "description": "负责用代码化方式把结构化数据生成PDF、PPTX、XLSX、DOCX等正式文档。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-document-generator.md"
+      },
+      "path": "positions/document-generator.md",
+      "sha256": "1be7b9c3a8b98a9562e6ed4aa5f0865c25e3768ef2c4f97896a238060958ee3a"
+    },
+    {
+      "id": "french-consulting-market",
+      "name": "法国咨询市场专家",
+      "description": "负责帮助独立IT顾问在法国ESN/SI（企业IT服务商与系统集成商）生态中定位费率、选择计费结构并谈判合同。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-french-consulting-market.md"
+      },
+      "path": "positions/french-consulting-market.md",
+      "sha256": "e411028e4a14c162c8130b91c97b39d238ad1f2aa65aec3cc12f2a4d57f0c6bd"
+    },
+    {
+      "id": "korean-business-navigator",
+      "name": "韩国商务专家",
+      "description": "负责帮助外部专业人士理解并穿行韩国企业内部的决策方式与人际规则，把\"见面谈得不错\"推进到真正签约。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-korean-business-navigator.md"
+      },
+      "path": "positions/korean-business-navigator.md",
+      "sha256": "3d8b57bc7d78ea93a7799b818498afbd6402a88c488a6ac9f4afdace30820db6"
+    },
+    {
+      "id": "mcp-builder",
+      "name": "MCP 构建器",
+      "description": "负责设计、实现和测试MCP（ModelContextProtocol）服务器，把外部系统能力以工具、资源和提示词的形式暴露给智能体使用。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-mcp-builder.md"
+      },
+      "path": "positions/mcp-builder.md",
+      "sha256": "5f01d28a0bd5bac1dca99504c0fa864d7cfcc59cb7feaf1fe792f8b3aede6d32"
+    },
+    {
+      "id": "resume-tailor",
+      "name": "简历定制师",
+      "description": "负责把用户已有的真实经历对应到具体职位描述，产出一份针对性更强、对ATS（招聘管理系统）和人工筛选都友好的简历。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/resume-tailor.md"
+      },
+      "path": "positions/resume-tailor.md",
+      "sha256": "588a844983648d19ff2c1379a243e2af43ba6ef823ec209eff17fb0faf5edc3b"
+    },
+    {
+      "id": "master-plan-architect",
+      "name": "总体规划架构师",
+      "description": "负责在尚未写代码之前，把系统该怎么建想清楚、讲明白并接受质疑。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-master-plan-architect.md"
+      },
+      "path": "positions/master-plan-architect.md",
+      "sha256": "70470e486f6c8ff5eb6df9647736fd1d076ae043510298c808fe7082d7727803"
+    },
+    {
+      "id": "codebase-archaeologist",
+      "name": "代码库考古专家",
+      "description": "负责审计长期被多次会话、多个工具改动过的代码库，找出单次开发不会察觉的隐性漂移：一处代码悄悄假设另一处已经改掉的行为，旧模式只替换了一半。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-codebase-archaeologist.md"
+      },
+      "path": "positions/codebase-archaeologist.md",
+      "sha256": "7fcfb44d5c6e8871aa6b3bb5a3519117761d9678b55e8d4dae6055a0508ad3ff"
+    },
+    {
+      "id": "focus-music-architect",
+      "name": "专注音乐架构师",
+      "description": "负责为深度工作场景设计器乐声景，并把它落成可直接使用的生成式音频提示词与实时音频参数。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-focus-music-architect.md"
+      },
+      "path": "positions/focus-music-architect.md",
+      "sha256": "ede269875e4f37816232ca70872a787720d73f61f80af249af662c0d1549ce07"
+    },
+    {
+      "id": "healthcare-aging-parent-care-companion",
+      "name": "年迈父母照护助手",
+      "description": "负责帮家庭照护者理清年迈父母或成年亲属的照护事务：用药与续药、就诊安排、该通知哪位照护团队成员，以及照护者自身还能不能撑住。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/healthcare-aging-parent-care-companion.md"
+      },
+      "path": "positions/healthcare-aging-parent-care-companion.md",
+      "sha256": "3f4ea9f289e492bc0b5108af4339ab3f06d412f1672676c0b7944b49fd23d26c"
+    },
+    {
+      "id": "fedramp-rmf-compliance",
+      "name": "FedRAMP 与 RMF 合规工程师",
+      "description": "负责引导云系统走完NIST风险管理框架（RMF）生命周期。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-fedramp-rmf-compliance.md"
+      },
+      "path": "positions/fedramp-rmf-compliance.md",
+      "sha256": "6511da979825c8b1e9d498471c845efeea8fe594d88adba4427f0a3507599e52"
+    },
+    {
+      "id": "meeting-assistant",
+      "name": "会议效率专家",
+      "description": "负责从会前必要性判断、议程设计、会中引导到会后行动追踪，让会议从时间消耗变成决策与对齐的场合。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-meeting-assistant.md"
+      },
+      "path": "positions/meeting-assistant.md",
+      "sha256": "a525ee5c2e6ae54a1f52e48d52a1de429a3b88451c62b4b867403ded9b48f8b3"
+    },
+    {
+      "id": "model-qa",
+      "name": "模型 QA 专家",
+      "description": "负责对他人构建的机器学习与统计模型做独立的全生命周期审计：从方法论文档、建模总体重建、标签与特征、模型复现、校准、区分度。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-model-qa.md"
+      },
+      "path": "positions/model-qa.md",
+      "sha256": "2128791a3a94f09f3a2005829bc40c05f4bcbbf1fc651eeef814ef1490b394ae"
+    },
+    {
+      "id": "pricing-optimizer",
+      "name": "动态定价策略师",
+      "description": "负责电商商品的基础定价、促销机制设计与竞品价格监控，在成本、竞争、消费者心理和平台规则之间找平衡。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-pricing-optimizer.md"
+      },
+      "path": "positions/pricing-optimizer.md",
+      "sha256": "a237f637821f9940fb808dc71ff5c473250ebe171a93caf3835944eded55015f"
+    },
+    {
+      "id": "real-estate-buyer-seller",
+      "name": "房地产经纪助手",
+      "description": "负责代表买方或卖方完成从需求评估、市场比较分析、看房与挂牌、报价谈判到过户协调的全流程。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/real-estate-buyer-seller.md"
+      },
+      "path": "positions/real-estate-buyer-seller.md",
+      "sha256": "197e9ed075d3de897bff140c05db27042a4109146e413c2472ef5870edc57e36"
+    },
+    {
+      "id": "retail-customer-returns",
+      "name": "零售退货专家",
+      "description": "负责处理线上线下及全渠道零售的退货、换货与退款：核验资格、检查商品、判定退款金额、选择处置方式，并在守住政策的同时尽量留住客户。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/retail-customer-returns.md"
+      },
+      "path": "positions/retail-customer-returns.md",
+      "sha256": "baa67c16d69c2bb4982909e610dae425987974f9631972923cecd6839da56366"
+    },
+    {
+      "id": "risk-assessor",
+      "name": "企业风险评估师",
+      "description": "负责为企业建立并运行全面风险管理体系：扫描风险环境、识别与登记风险、评估影响与可能性、制定应对策略、跟踪审计整改。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-risk-assessor.md"
+      },
+      "path": "positions/risk-assessor.md",
+      "sha256": "3369638bf25f0767e47dbb19a2510e9a1b1c3fcda7ba538f07745af5f1a182c6"
+    },
+    {
+      "id": "salesforce-architect",
+      "name": "Salesforce 架构师",
+      "description": "负责Salesforce平台上的解决方案架构：数据模型、自动化分层、多云协作、企业集成与部署治理。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-salesforce-architect.md"
+      },
+      "path": "positions/salesforce-architect.md",
+      "sha256": "2b77da5d43cfd8e6f824fa2fc5786417e2c8062ebe169ecd7f95e60cc576bb4c"
+    },
+    {
+      "id": "workflow-architect",
+      "name": "工作流架构师",
+      "description": "负责在动手实现之前，把系统里每一条实际存在的路径显式命名并写成可构建的工作流规格。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/specialized-workflow-architect.md"
+      },
+      "path": "positions/workflow-architect.md",
+      "sha256": "68d15391cd749d4680b4cf88e482e8f8f9727a9309016e935e14c605f3ede88b"
+    },
+    {
+      "id": "travel-planner",
+      "name": "旅行规划师",
+      "description": "负责把一次出行的约束条件转成可以照着执行的逐日行程：几点出发、怎么到达、住哪里、花多少、体力够不够、出问题换什么。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/travel-planner.md"
+      },
+      "path": "positions/travel-planner.md",
+      "sha256": "c2232363cb56f94afee30bfe7d4223625092af903b09b9d6edced7d28a5135b5"
+    },
+    {
+      "id": "study-abroad-advisor",
+      "name": "留学规划顾问",
+      "description": "负责把学生的背景、预算和职业目标，转成一条可执行的申请路线：去哪个国家、冲哪些项目、什么时候考出分、文书讲什么故事、材料何时提交。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/study-abroad-advisor.md"
+      },
+      "path": "positions/study-abroad-advisor.md",
+      "sha256": "14c4f9f83800d0d254c177ecf0d998656358ae05bb92f303ea1ccd22ec0d9865"
+    },
+    {
+      "id": "technical-translator-agent",
+      "name": "技术翻译专家",
+      "description": "负责技术文档的中英双向翻译与术语管理：接口文档、开发教程、技术博客、学术论文、代码注释。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/technical-translator-agent.md"
+      },
+      "path": "positions/technical-translator-agent.md",
+      "sha256": "5be60ca80dede5d8c3d059ebb99bf66d04e4f5869534ad08b5f6adca31ab1872"
+    },
+    {
+      "id": "zk-steward",
+      "name": "ZK 管家",
+      "description": "负责维护个人知识库：把零散材料拆成可独立理解的原子笔记，用有意义的链接把它们织成网络，并在每次任务收尾时留下可追溯的日志。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "specialized/zk-steward.md"
+      },
+      "path": "positions/zk-steward.md",
+      "sha256": "7757bfbccdd466ce45282c5975366b7e1a252214c7ce4fa632a69f9cd909b180"
+    },
+    {
+      "id": "inventory-forecaster",
+      "name": "库存预测专家",
+      "description": "负责把历史销售、季节规律和促销节奏转成可执行的备货与补货决策：预测各品类需求量、计算安全库存、设定再订货点、安排大促倒排备货。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "supply-chain/supply-chain-inventory-forecaster.md"
+      },
+      "path": "positions/inventory-forecaster.md",
+      "sha256": "c0dc826683e8b1253027bd3098cc5a1ea590f08320cc1ea660e18c88e26f94f7"
+    },
+    {
+      "id": "route-optimizer",
+      "name": "物流路线优化师",
+      "description": "负责配送网络与线路的整体设计：选承运商、定仓网布局、排同城与干线方案、控制冷链和跨境链路，并在时效、成本、体验之间做取舍。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "supply-chain/supply-chain-route-optimizer.md"
+      },
+      "path": "positions/route-optimizer.md",
+      "sha256": "fe5ce519ff5520b8125904d69ebf4c6e79dabf860e13e8759c2203c1d37cd2ce"
+    },
+    {
+      "id": "supply-chain-strategist",
+      "name": "供应链采购策略师",
+      "description": "负责供应商体系与采购策略的整体设计：准入评审、分级管理、品类策略、绩效追踪、降本路径和供应风险管理。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "supply-chain/supply-chain-strategist.md"
+      },
+      "path": "positions/supply-chain-strategist.md",
+      "sha256": "2c4629f0511c585a1eb61ad19c1c79aebd7cd68ed1ac7ffd77dee6be05c5ff9e"
+    },
+    {
+      "id": "vendor-evaluator",
+      "name": "供应商评估专家",
+      "description": "负责把候选供应商从「看起来不错」筛成「可以稳定供货」：资质核验、样品测试、实地验厂、评分定级、试用期放量与定期淘汰。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "supply-chain/supply-chain-vendor-evaluator.md"
+      },
+      "path": "positions/vendor-evaluator.md",
+      "sha256": "018d67567ae92b70cce68af0e957643d0906a64eee80dd2cfe276f4c61acf223"
+    },
+    {
+      "id": "garment-factory-planning-engineer",
+      "name": "服装工厂规划工程师",
+      "description": "负责服装制造工厂从选址到量产爬坡的整体规划：场地布局、产能测算、设备选型、产线平衡、投资概算和多国合规落地。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "supply-chain/supply-chain-garment-factory-planning-engineer.md"
+      },
+      "path": "positions/garment-factory-planning-engineer.md",
+      "sha256": "6039a10f7a301820b84decb0f9c5df3d08b2619029a5b79e33f52bb1e56eb522"
+    },
+    {
+      "id": "analytics-reporter",
+      "name": "数据分析师",
+      "description": "负责把原始业务数据转成能支撑决策的结论：定义指标口径、做统计检验、搭仪表盘、写分析报告，并跟踪建议落地后的实际变化。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "support/support-analytics-reporter.md"
+      },
+      "path": "positions/analytics-reporter.md",
+      "sha256": "55255856cd02753204ed28677567dbd01dcb7fdfdbe1eba97662c9b94605178e"
+    },
+    {
+      "id": "executive-summary-generator",
+      "name": "高管摘要师",
+      "description": "负责把冗长的业务材料压缩成决策者能在几分钟内读懂的摘要。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "support/support-executive-summary-generator.md"
+      },
+      "path": "positions/executive-summary-generator.md",
+      "sha256": "6a83a257bb29c1b2678ac1ee7dca680eab3b179e029bcea4c58c63162b237371"
+    },
+    {
+      "id": "finance-tracker",
+      "name": "财务追踪员",
+      "description": "负责企业财务健康度的日常跟踪与前瞻测算：编预算、做差异分析、滚动预测现金流、算投资回报、监控关键比率，并在出现偏差时提前报警。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "support/support-finance-tracker.md"
+      },
+      "path": "positions/finance-tracker.md",
+      "sha256": "65be187906d369e42c98349ccc640079c304868be0c076e9d4940e570b0698cb"
+    },
+    {
+      "id": "infrastructure-maintainer",
+      "name": "基础设施运维师",
+      "description": "负责生产基础设施的稳定性、性能与成本：容量规划、变更实施、监控告警、备份恢复演练、安全加固和事故响应。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "support/support-infrastructure-maintainer.md"
+      },
+      "path": "positions/infrastructure-maintainer.md",
+      "sha256": "004af6e73fb2f5d08a227b7d044ad9f8586961907d2acd12f95a429f5a8adff2"
+    },
+    {
+      "id": "legal-compliance-checker",
+      "name": "法务合规员",
+      "description": "负责识别并管理业务的法律合规风险：适用法规盘点、隐私与数据处理流程、合同条款审查、政策制定与培训、监管变化跟踪、违规事件处置。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "support/support-legal-compliance-checker.md"
+      },
+      "path": "positions/legal-compliance-checker.md",
+      "sha256": "ed933d0920df89538d41a31b9fddf61e6cc4129f976d499f396573728c55b6f5"
+    },
+    {
+      "id": "support-recruitment-specialist",
+      "name": "招聘运营专家",
+      "description": "负责从岗位需求确认到新人通过试用期的招聘全链路运营：把用人部门的模糊需求转成可筛选的岗位画像。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "support/support-recruitment-specialist.md"
+      },
+      "path": "positions/support-recruitment-specialist.md",
+      "sha256": "f11382189b863d16c3c822e626f046bfb9dc2928c2e0652840ff42d3d8139cdf"
+    },
+    {
+      "id": "support-responder",
+      "name": "客服响应者",
+      "description": "负责一线客户支持的受理、诊断、答复与升级：在邮件、在线聊天、电话、社交媒体和应用内消息等渠道接住用户问题，判断问题类型与紧急度。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "support/support-support-responder.md"
+      },
+      "path": "positions/support-responder.md",
+      "sha256": "78d12464a7cb8b2e2e9945dc0b5e40a08a720380a140f7836b5669b6ca36cbab"
+    },
+    {
+      "id": "accessibility-auditor",
+      "name": "无障碍审核员",
+      "description": "负责按WCAG2.2AA（必要时含AAA指定项）审核界面，并用真实辅助技术验证可用性。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-accessibility-auditor.md"
+      },
+      "path": "positions/accessibility-auditor.md",
+      "sha256": "7056749002bec8ea3a6c975ea92fa57a5aabfe890e31a5c91f5bbbdc66cf99c9"
+    },
+    {
+      "id": "api-tester",
+      "name": "API 测试员",
+      "description": "负责接口层的独立验证：按端点清单设计功能、契约、异常、安全与性能测试，确认内部服务之间以及第三方集成的行为符合约定。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-api-tester.md"
+      },
+      "path": "positions/api-tester.md",
+      "sha256": "6bb5e7574292092b3d63731456fbe11fe6d802a8bdb9d084ba7afacb4994a492"
+    },
+    {
+      "id": "test-automation-engineer",
+      "name": "测试自动化工程师",
+      "description": "负责构建团队可以信赖的浏览器端到端测试及其运行基础设施：挑选真正值得进浏览器的关键旅程。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-test-automation-engineer.md"
+      },
+      "path": "positions/test-automation-engineer.md",
+      "sha256": "3d9b4b3dd5caca66a06c5e13f5de997de98d4fb8f74e43ac415874eb54f78154"
+    },
+    {
+      "id": "embedded-qa-engineer",
+      "name": "嵌入式测试工程师",
+      "description": "负责嵌入式产品从固件逻辑到硬件接口、再到量产环节的质量验证。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-embedded-qa-engineer.md"
+      },
+      "path": "positions/embedded-qa-engineer.md",
+      "sha256": "c3974ed053c7d4c403f70f3e09d8ca76c13c9a4f6c3aa0e2602318b52e028476"
+    },
+    {
+      "id": "evidence-collector",
+      "name": "证据收集者",
+      "description": "负责让每条质量结论都带得起追问：在测试执行现场即时采集截图、录屏、日志、网络请求、环境信息和数据状态。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-evidence-collector.md"
+      },
+      "path": "positions/evidence-collector.md",
+      "sha256": "38b902cde0c9749bde7545a0b88c864e1d0107a7f863edeb125382ee90070946"
+    },
+    {
+      "id": "performance-benchmarker",
+      "name": "性能基准师",
+      "description": "负责用可复现的测量回答\"系统现在有多快、能撑多少、瓶颈在哪、扩容还是优化\"。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-performance-benchmarker.md"
+      },
+      "path": "positions/performance-benchmarker.md",
+      "sha256": "e2ddef550edf789a762976c687998b55e7c4b90aa6f9f22df98927bc994a965a"
+    },
+    {
+      "id": "reality-checker",
+      "name": "现实检验者",
+      "description": "负责在生产就绪评审中做最后一道核验：把交付方的声明、前序测试结论与真实实现逐条对照。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-reality-checker.md"
+      },
+      "path": "positions/reality-checker.md",
+      "sha256": "bcfbecec7ac021d61e3923f27280c90a98f5b48c32dfb822aca5385c95b8d4ac"
+    },
+    {
+      "id": "test-results-analyzer",
+      "name": "测试结果分析师",
+      "description": "负责把分散的测试执行结果（功能、接口、性能、安全、集成）汇总成可判断的质量情报。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-test-results-analyzer.md"
+      },
+      "path": "positions/test-results-analyzer.md",
+      "sha256": "9fa4671eff5b3e3cf21d41f596dc6dd46347e5d4ac064cf690d5af9dd588f4a1"
+    },
+    {
+      "id": "tool-evaluator",
+      "name": "工具评估师",
+      "description": "负责工具与平台的选型评估：把团队真实需求转成加权评估维度，用真实数据与场景做功能、易用性、性能、安全、集成测试。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-tool-evaluator.md"
+      },
+      "path": "positions/tool-evaluator.md",
+      "sha256": "3a3d3663e5860cc7ad37d912a195ce043610d82e49f95c30ddea962c63cce285"
+    },
+    {
+      "id": "workflow-optimizer",
+      "name": "工作流优化师",
+      "description": "负责分析并改造团队或跨部门的业务流程：画出真实流程与交接环节，量化周期时间、等待时间、成本、错误率和满意度基线，定位瓶颈与浪费。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "testing/testing-workflow-optimizer.md"
+      },
+      "path": "positions/workflow-optimizer.md",
+      "sha256": "c1552f2a9c09ee058bd0a7887f2df975ec1e1443936d179eae8934479ff5c82e"
+    },
+    {
+      "id": "3d-scene-developer",
+      "name": "三维场景开发者",
+      "description": "负责把二维GIS数据与三维模型组织成可在浏览器中流畅浏览的Web三维场景：地形底座、影像叠加、三维要素、点云与标注的组合。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-3d-scene-developer.md"
+      },
+      "path": "positions/3d-scene-developer.md",
+      "sha256": "d0a95cd0432c5930ff65778785a2e5c324fd3ce2b7af9f3dbf609251e4cd8c5d"
+    },
+    {
+      "id": "gis-analyst",
+      "name": "GIS 分析师",
+      "description": "负责日常地理信息的生产与维护：把来源不同的空间数据加载、校验、整理成可用的图层，按受众设计符号化与版面产出成图。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-analyst.md"
+      },
+      "path": "positions/gis-analyst.md",
+      "sha256": "86c9f858cb4589604f1bcb53640ced508366516677ec44a9292226604e90c2a2"
+    },
+    {
+      "id": "bim-specialist",
+      "name": "BIM/GIS 专家",
+      "description": "负责把建筑尺度的建筑信息模型接入地理尺度的空间系统：评估源模型质量，完成地理配准，按用途转换几何与保留语义属性。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-bim-specialist.md"
+      },
+      "path": "positions/bim-specialist.md",
+      "sha256": "ae7798ceef7524f78484a9c895217791e86bbc528cb8e66800c270b24355d7a1"
+    },
+    {
+      "id": "cartography-designer",
+      "name": "地图制图设计师",
+      "description": "负责地图的视觉与信息设计：确定配色方案与分类方法、符号化规则、标注层级与字体、底图选择与定制、版面构成（地图框、图例、比例尺、指北针、标…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-cartography-designer.md"
+      },
+      "path": "positions/cartography-designer.md",
+      "sha256": "84ac2d02959b3b1f7cdcbd28aaa4b1028d1041aaeac66bab2301249c911260a2"
+    },
+    {
+      "id": "drone-reality-mapping",
+      "name": "无人机实景测绘专家",
+      "description": "负责从航线规划到摄影测量处理的整条实景采集链路，把无人机原始影像变成可接入GIS的测量级成果。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-drone-reality-mapping.md"
+      },
+      "path": "positions/drone-reality-mapping.md",
+      "sha256": "51ae50dc8158a325a1f213468ce5cc5e2979b67132a42f91f03ad4810584f4fc"
+    },
+    {
+      "id": "geoai-ml-engineer",
+      "name": "GeoAI/ML 工程师",
+      "description": "负责从卫星与航拍影像中构建可上生产的地理空间机器学习模型。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-geoai-ml-engineer.md"
+      },
+      "path": "positions/geoai-ml-engineer.md",
+      "sha256": "4263b1ee19937649c89f23f1ad7964d007b6a48d1ef09c8132d97b6278f47353"
+    },
+    {
+      "id": "geoprocessing-specialist",
+      "name": "地理处理专家",
+      "description": "负责把重复的手工地理处理工作变成可复用、可共享、可无人值守运行的工具。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-geoprocessing-specialist.md"
+      },
+      "path": "positions/geoprocessing-specialist.md",
+      "sha256": "6ede24c4de85c2fecb6433e69dd2255f03ebbb130c53522f2045a9df8268dae1"
+    },
+    {
+      "id": "gis-qa-engineer",
+      "name": "GIS 质检工程师",
+      "description": "负责在数据集、地图和服务交付前把关，检查空间数据的几何有效性、坐标系一致性、属性质量、拓扑关系、元数据完整性与精度。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-qa-engineer.md"
+      },
+      "path": "positions/gis-qa-engineer.md",
+      "sha256": "d16d48ea1a75cf7f625d480c1e53a78820d24aeeee713105e6c0a7ec23f039a6"
+    },
+    {
+      "id": "gis-solution-engineer",
+      "name": "解决方案工程师",
+      "description": "负责把技术顾问给出的架构决策落成可运行的演示与概念验证（PoC）：选最简技术路径打通客户最关心的关键交互。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-solution-engineer.md"
+      },
+      "path": "positions/gis-solution-engineer.md",
+      "sha256": "ffa87bb6b6c12fbb075fc296e6e1d876df6c39d35158a2ed176de7c5f67d53da"
+    },
+    {
+      "id": "spatial-data-engineer",
+      "name": "空间数据工程师",
+      "description": "负责把来自政府门户、外业测量、遗留数据库、无人机与接口的地理空间数据，转换为干净、标准化、可投产的数据集。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-spatial-data-engineer.md"
+      },
+      "path": "positions/spatial-data-engineer.md",
+      "sha256": "036567ac720d82ba4279dfaf9b06d8453c0c15bcda8b77d4bdd2fdcde8750c42"
+    },
+    {
+      "id": "spatial-data-scientist",
+      "name": "空间数据科学家",
+      "description": "负责在地理空间数据上做统计与预测分析，回答\"地图上看不出来的问题\"。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-spatial-data-scientist.md"
+      },
+      "path": "positions/spatial-data-scientist.md",
+      "sha256": "ffcbe9a03b62697717419e12e61fb98321a16c88f3bf54542fda423b1c3bdb33"
+    },
+    {
+      "id": "gis-technical-consultant",
+      "name": "技术顾问",
+      "description": "负责把业务问题转化为地理空间战略：梳理现状与痛点、做差距分析、在商业套件与开源方案之间做选型、设计可长期维护的目标架构、编制分阶段路线图…",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-technical-consultant.md"
+      },
+      "path": "positions/gis-technical-consultant.md",
+      "sha256": "661c019d7d8ac0c3062c108d31f1da66f574d9aa26c35c317429826a097b2812"
+    },
+    {
+      "id": "web-gis-developer",
+      "name": "Web GIS 开发工程师",
+      "description": "负责把GIS数据与后端服务变成在桌面、平板和手机上都能流畅使用的交互式Web地图应用。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "gis/gis-web-gis-developer.md"
+      },
+      "path": "positions/web-gis-developer.md",
+      "sha256": "09e72825f1ae851e9d7c13afd03fafa6b30be2e0ff9a533d8309c27b447c85e8"
+    },
+    {
+      "id": "ai-generated-code-auditor",
+      "name": "AI 生成代码安全审计师",
+      "description": "负责审查由编码助手和快速搭建工具生成的应用代码，找出这类代码可预测的缺陷：暴露到客户端的密钥、形同虚设的行级访问控制。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-ai-generated-code-auditor.md"
+      },
+      "path": "positions/ai-generated-code-auditor.md",
+      "sha256": "402b1b825018d58f108d68b33852ecacccc1a101ca87a50cbd6df99138503b22"
+    },
+    {
+      "id": "appsec-engineer",
+      "name": "应用安全工程师",
+      "description": "负责把安全内建到软件开发生命周期：在设计阶段做威胁建模并导出可测试的安全需求，在合并前审查安全关键代码。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-appsec-engineer.md"
+      },
+      "path": "positions/appsec-engineer.md",
+      "sha256": "7fe14fe064f7327fe0000a1f2b3f58e26fb4d55e50db62279fb7cbbd33f46714"
+    },
+    {
+      "id": "security-architect",
+      "name": "安全架构师",
+      "description": "负责设计系统层面的安全模型：梳理架构与数据流、标定信任边界、做威胁建模、定义认证授权模型、制定纵深防御层次。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-architect.md"
+      },
+      "path": "positions/security-architect.md",
+      "sha256": "0f76dab7d8054a562e6ffecafb6e311face0e59d41e5a41e52e3f14fbc3d9065"
+    },
+    {
+      "id": "blockchain-security-auditor",
+      "name": "区块链安全审计师",
+      "description": "负责在部署前审查智能合约与去中心化协议，找出可被利用的漏洞。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-blockchain-security-auditor.md"
+      },
+      "path": "positions/blockchain-security-auditor.md",
+      "sha256": "f8d00db009e5ec2fcfc8b137557007f10250e0ebb6338816d675774e046ed6a5"
+    },
+    {
+      "id": "cloud-security-architect",
+      "name": "云安全架构师",
+      "description": "负责多云环境的安全架构设计与落地：零信任网络分段、身份与访问管理策略、数据加密与密钥托管、基础设施即代码的策略检查、日志与检测体系。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-cloud-security-architect.md"
+      },
+      "path": "positions/cloud-security-architect.md",
+      "sha256": "91e9df505440a8e19a6ab5b25436077a9433fdf2dee402dcdf6fd99187b834eb"
+    },
+    {
+      "id": "security-compliance-auditor",
+      "name": "合规审计师",
+      "description": "负责带领组织走完安全与隐私认证的运营与技术侧工作。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-compliance-auditor.md"
+      },
+      "path": "positions/security-compliance-auditor.md",
+      "sha256": "b0eb36190e52c182e3d69288766c1fc3d0aeb0db39b13b46c7a9de0264d1aacd"
+    },
+    {
+      "id": "security-incident-responder",
+      "name": "事件响应专家",
+      "description": "负责安全事件的初步研判、遏制、取证与恢复。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-incident-responder.md"
+      },
+      "path": "positions/security-incident-responder.md",
+      "sha256": "bb4366755d05d90eaf9657d59ef3f388de15036b725ff198b3ddb14eda0c8f84"
+    },
+    {
+      "id": "security-penetration-tester",
+      "name": "渗透测试员",
+      "description": "负责在书面授权的范围内，以攻击者视角评估网络、Web应用、API和云基础设施的安全状况。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-penetration-tester.md"
+      },
+      "path": "positions/security-penetration-tester.md",
+      "sha256": "3b2b1d484db33d45aefc59634c6bd1aebbe33fb738f0aaa4b238901e084f9a2e"
+    },
+    {
+      "id": "secrets-credential-engineer",
+      "name": "密钥与凭据治理工程师",
+      "description": "负责密钥与凭据从签发到吊销的全生命周期：在代码、CI/CD、运行时和第三方服务中防止密钥落地，把存量密钥迁入集中托管。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-secrets-credential-engineer.md"
+      },
+      "path": "positions/secrets-credential-engineer.md",
+      "sha256": "0d17f9fe0072810115558e1981fa51a73bc4cf14bfda7de6bd67e55f63e230a5"
+    },
+    {
+      "id": "senior-secops",
+      "name": "高级安全运营工程师",
+      "description": "负责防御侧的应用安全：以组织既定的安全标准为基准，审查代码与配置、实现安全控制、按阶段做安全验收。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-senior-secops.md"
+      },
+      "path": "positions/senior-secops.md",
+      "sha256": "086d3851d56499faaa1526601317139035f771ed3a93e72dafeb042c16621076"
+    },
+    {
+      "id": "security-threat-detection-engineer",
+      "name": "威胁检测工程师（安全运营）",
+      "description": "负责构建并维护检测层：在预防性控制被绕过之后识别攻击者。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-threat-detection-engineer.md"
+      },
+      "path": "positions/security-threat-detection-engineer.md",
+      "sha256": "469c5d32db8cb9e49be462a087cf22193d4805580f65e5b05643efc2f0a57f4b"
+    },
+    {
+      "id": "security-threat-intelligence-analyst",
+      "name": "威胁情报分析师",
+      "description": "负责把原始威胁数据转化为可用于决策的情报：追踪对手团伙，归因其攻击活动，绘制基础设施与工具演化，把观察到的行为映射到MITREATT&CK。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "security/security-threat-intelligence-analyst.md"
+      },
+      "path": "positions/security-threat-intelligence-analyst.md",
+      "sha256": "1975f6f05c2eaded0fd48f273db9b28c59df5e22a0c87de56e50462d769f5a21"
     }
   ]
 }
