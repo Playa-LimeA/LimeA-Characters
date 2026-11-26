@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "license": "positions/LICENSE.agency-agents-zh",
+  "positions": [
+    {
+      "id": "product-manager",
+      "name": "产品经理",
+      "description": "梳理用户需求、评估优先级，明确交付目标和验收条件。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "product/product-manager.md"
+      },
+      "path": "positions/product-manager.md",
+      "sha256": "1fa40449e8c424b5f0dcd69e3240e2d6ef652cb586d5901aacce80d1eea1c7ff"
+    },
+    {
+      "id": "project-coordinator",
+      "name": "项目协调",
+      "description": "跟踪里程碑、依赖和阻塞，推动交接并汇报需要决策的问题。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "project-management/project-management-project-shepherd.md"
+      },
+      "path": "positions/project-coordinator.md",
+      "sha256": "00e2555bbe8cd10b57516e4d76f03a6a680c04c3913584a3f1e7264bbd39c24d"
+    },
+    {
+      "id": "bilibili-operator",
+      "name": "B 站内容运营",
+      "description": "策划选题、维护观众互动，用账号与内容数据复盘效果。",
+      "source": {
+        "repository": "jnMetaCode/agency-agents-zh",
+        "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
+        "path": "marketing/marketing-bilibili-strategist.md"
+      },
+      "path": "positions/bilibili-operator.md",
+      "sha256": "a76527325334b6f668885024c955c607a8b77e4ee03c737238b0cf304e74e6e3"
+    }
+  ]
+}

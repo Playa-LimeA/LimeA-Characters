@@ -83,6 +83,73 @@ async function preview(data, width, height) {
   if (output.length > 1024 * 1024) throw new Error("预览超过 1 MiB");
   return output;
 }
+async function buildPositions(root) {
+  const directory = await lstat(join(root, "positions")).catch((error) => {
+    if (error.code === "ENOENT") return null;
+    throw error;
+  });
+  if (!directory) return null;
+
+  const decoder = new TextDecoder("utf-8", { fatal: true });
+  const registry = JSON.parse(
+    decoder.decode(await bytes(root, "positions/registry.json")),
+  );
+  if (
+    registry?.version !== 1 ||
+    Object.keys(registry).some(
+      (key) => !["version", "license", "positions"].includes(key),
+    ) ||
+    !Array.isArray(registry.positions) ||
+    typeof registry.license !== "string" ||
+    !/^positions\/LICENSE\.[a-z0-9-]+$/.test(registry.license)
+  )
+    throw new Error("职位登记清单无效");
+  if (!decoder.decode(await bytes(root, registry.license)).trim())
+    throw new Error("职位库许可证为空");
+
+  const ids = new Set();
+  const positions = [];
+  for (const entry of registry.positions) {
+    if (
+      !entry ||
+      Object.keys(entry).some(
+        (key) => !["id", "name", "description", "source"].includes(key),
+      ) ||
+      typeof entry.id !== "string" ||
+      !idPattern.test(entry.id) ||
+      ids.has(entry.id) ||
+      typeof entry.name !== "string" ||
+      !entry.name.trim() ||
+      entry.name.length > 80 ||
+      typeof entry.description !== "string" ||
+      !entry.description.trim()
+    )
+      throw new Error("职位条目无效或标识重复");
+
+    const { source } = entry;
+    if (
+      !source ||
+      Object.keys(source).some(
+        (key) => !["repository", "commit", "path"].includes(key),
+      ) ||
+      typeof source.repository !== "string" ||
+      !/^[a-z0-9-]+\/[a-z0-9_.-]+$/i.test(source.repository) ||
+      typeof source.commit !== "string" ||
+      !/^[a-f0-9]{40}$/.test(source.commit) ||
+      !safePath(source.path).endsWith(".md")
+    )
+      throw new Error(`职位来源无效：${entry.id}`);
+
+    const path = `positions/${entry.id}.md`;
+    const prompt = await bytes(root, path);
+    if (prompt.length > 1024 * 1024 || !decoder.decode(prompt).trim())
+      throw new Error(`职位提示词为空或超过 1 MiB：${entry.id}`);
+
+    ids.add(entry.id);
+    positions.push({ ...entry, path, sha256: hash(prompt) });
+  }
+  return { version: 1, license: registry.license, positions };
+}
 const escape = (value) =>
   String(value)
     .replaceAll("&", "&amp;")
@@ -275,6 +342,9 @@ export async function buildCharacters(root, check = false) {
     throw new Error("商店有角色的作品超过 100 个");
   outputs.set("works.json", json(registry));
   outputs.set("catalog.json", json(catalog));
+  const positionCatalog = await buildPositions(root);
+  if (positionCatalog)
+    outputs.set("positions/catalog.json", json(positionCatalog));
   const readme = await readFile(join(root, "README.md"), "utf8");
   const begin = "<!-- characters:start -->",
     end = "<!-- characters:end -->";

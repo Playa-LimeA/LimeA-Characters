@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { createHash } from "node:crypto";
 import test from "node:test";
 import {
   mkdtemp,
@@ -68,6 +69,65 @@ async function cleanup(root) {
   );
   await rm(root, { recursive: true, force: true });
 }
+
+test("职位清单为正文生成摘要并校验来源与过期文件", async () => {
+  const root = await fixture();
+  try {
+    const license = "positions/LICENSE.fixture";
+    const prompt = "梳理用户需求与验收条件。\n";
+    const entry = {
+      id: "product-manager",
+      name: "产品经理",
+      description: "梳理用户需求。",
+      source: {
+        repository: "example/positions",
+        commit: "a".repeat(40),
+        path: "product/product-manager.md",
+      },
+    };
+    const path = "positions/product-manager.md";
+    const catalogPath = join(root, "positions/catalog.json");
+    await mkdir(join(root, "positions"));
+    await writeFile(join(root, license), "Fixture license.\n");
+    await writeFile(join(root, path), prompt);
+    const registryPath = join(root, "positions/registry.json");
+    await writeFile(
+      registryPath,
+      JSON.stringify({ version: 1, license, positions: [entry] }),
+    );
+
+    await buildCharacters(root);
+    await buildCharacters(root, true);
+    const catalog = await readFile(catalogPath, "utf8");
+    assert.deepEqual(JSON.parse(catalog), {
+      version: 1,
+      license,
+      positions: [
+        { ...entry, path, sha256: createHash("sha256").update(prompt).digest("hex") },
+      ],
+    });
+    const characterCatalog = JSON.parse(
+      await readFile(join(root, "catalog.json"), "utf8"),
+    );
+    assert.deepEqual(Object.keys(characterCatalog), ["version", "works"]);
+
+    await writeFile(join(root, path), prompt + "记录范围变更。\n");
+    await assert.rejects(
+      buildCharacters(root, true),
+      /生成文件过期：positions\/catalog\.json/,
+    );
+    assert.equal(await readFile(catalogPath, "utf8"), catalog);
+
+    await writeFile(
+      registryPath,
+      JSON.stringify({ version: 1, license, positions: [entry, entry] }),
+    );
+    await assert.rejects(buildCharacters(root), /职位条目无效或标识重复/);
+    assert.equal(await readFile(catalogPath, "utf8"), catalog);
+  } finally {
+    await cleanup(root);
+  }
+});
 
 test("不同本机时区生成相同的角色包和清单", async () => {
   const root = await fixture();
