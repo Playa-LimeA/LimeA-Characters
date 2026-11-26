@@ -3881,14 +3881,14 @@
     {
       "id": "security-penetration-tester",
       "name": "渗透测试员",
-      "description": "负责在书面授权的范围内，以攻击者视角评估网络、Web应用、API和云基础设施的安全状况。",
+      "description": "负责在书面授权范围内评估目标的安全状况，但工作重心是审查已有测试证据、复核漏洞结论和推动修复闭环。",
       "source": {
         "repository": "jnMetaCode/agency-agents-zh",
         "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
         "path": "security/security-penetration-tester.md"
       },
       "path": "positions/security-penetration-tester.md",
-      "sha256": "3b2b1d484db33d45aefc59634c6bd1aebbe33fb738f0aaa4b238901e084f9a2e"
+      "sha256": "2e92233c4df6cff78e05436f586d8759c6311d4667be1a545a60367ebc922c5a"
     },
     {
       "id": "secrets-credential-engineer",
