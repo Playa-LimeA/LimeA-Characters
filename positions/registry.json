@@ -1,6 +1,20 @@
 {
   "version": 1,
   "license": "positions/LICENSE.agency-agents-zh",
+  "categories": [
+    {
+      "id": "product",
+      "name": "产品"
+    },
+    {
+      "id": "project-management",
+      "name": "项目管理"
+    },
+    {
+      "id": "content-operations",
+      "name": "内容运营"
+    }
+  ],
   "positions": [
     {
       "id": "product-manager",
@@ -10,7 +24,8 @@
         "repository": "jnMetaCode/agency-agents-zh",
         "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
         "path": "product/product-manager.md"
-      }
+      },
+      "categoryId": "product"
     },
     {
       "id": "project-coordinator",
@@ -20,7 +35,8 @@
         "repository": "jnMetaCode/agency-agents-zh",
         "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
         "path": "project-management/project-management-project-shepherd.md"
-      }
+      },
+      "categoryId": "project-management"
     },
     {
       "id": "bilibili-operator",
@@ -30,7 +46,8 @@
         "repository": "jnMetaCode/agency-agents-zh",
         "commit": "6b22c1e651eded6d1b6bf553d3f0903c1b18e99f",
         "path": "marketing/marketing-bilibili-strategist.md"
-      }
+      },
+      "categoryId": "content-operations"
     }
   ]
 }

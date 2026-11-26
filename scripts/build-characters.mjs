@@ -97,8 +97,9 @@ async function buildPositions(root) {
   if (
     registry?.version !== 1 ||
     Object.keys(registry).some(
-      (key) => !["version", "license", "positions"].includes(key),
+      (key) => !["version", "license", "categories", "positions"].includes(key),
     ) ||
+    !Array.isArray(registry.categories) ||
     !Array.isArray(registry.positions) ||
     typeof registry.license !== "string" ||
     !/^positions\/LICENSE\.[a-z0-9-]+$/.test(registry.license)
@@ -107,13 +108,31 @@ async function buildPositions(root) {
   if (!decoder.decode(await bytes(root, registry.license)).trim())
     throw new Error("职位库许可证为空");
 
+  const groups = new Map();
+  for (const category of registry.categories) {
+    if (
+      !category ||
+      Object.keys(category).some((key) => !["id", "name"].includes(key)) ||
+      typeof category.id !== "string" ||
+      !idPattern.test(category.id) ||
+      groups.has(category.id) ||
+      typeof category.name !== "string" ||
+      !category.name.trim() ||
+      category.name.length > 80
+    )
+      throw new Error("职位分类无效或标识重复");
+
+    groups.set(category.id, { ...category, positionIds: [] });
+  }
+
   const ids = new Set();
   const positions = [];
   for (const entry of registry.positions) {
     if (
       !entry ||
       Object.keys(entry).some(
-        (key) => !["id", "name", "description", "source"].includes(key),
+        (key) =>
+          !["id", "name", "description", "categoryId", "source"].includes(key),
       ) ||
       typeof entry.id !== "string" ||
       !idPattern.test(entry.id) ||
@@ -126,7 +145,11 @@ async function buildPositions(root) {
     )
       throw new Error("职位条目无效或标识重复");
 
-    const { source } = entry;
+    const { categoryId, ...position } = entry;
+    const group = groups.get(categoryId);
+    if (!group) throw new Error(`职位分类未登记：${entry.id}`);
+
+    const { source } = position;
     if (
       !source ||
       Object.keys(source).some(
@@ -146,9 +169,14 @@ async function buildPositions(root) {
       throw new Error(`职位提示词为空或超过 1 MiB：${entry.id}`);
 
     ids.add(entry.id);
-    positions.push({ ...entry, path, sha256: hash(prompt) });
+    positions.push({ ...position, path, sha256: hash(prompt) });
+    group.positionIds.push(entry.id);
   }
-  return { version: 1, license: registry.license, positions };
+
+  return {
+    catalog: { version: 1, license: registry.license, positions },
+    categories: { version: 1, categories: [...groups.values()] },
+  };
 }
 const escape = (value) =>
   String(value)
@@ -342,9 +370,11 @@ export async function buildCharacters(root, check = false) {
     throw new Error("商店有角色的作品超过 100 个");
   outputs.set("works.json", json(registry));
   outputs.set("catalog.json", json(catalog));
-  const positionCatalog = await buildPositions(root);
-  if (positionCatalog)
-    outputs.set("positions/catalog.json", json(positionCatalog));
+  const positionFiles = await buildPositions(root);
+  if (positionFiles) {
+    outputs.set("positions/catalog.json", json(positionFiles.catalog));
+    outputs.set("positions/categories.json", json(positionFiles.categories));
+  }
   const readme = await readFile(join(root, "README.md"), "utf8");
   const begin = "<!-- characters:start -->",
     end = "<!-- characters:end -->";

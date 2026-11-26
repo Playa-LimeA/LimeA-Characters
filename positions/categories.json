@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "product",
+      "name": "产品",
+      "positionIds": [
+        "product-manager"
+      ]
+    },
+    {
+      "id": "project-management",
+      "name": "项目管理",
+      "positionIds": [
+        "project-coordinator"
+      ]
+    },
+    {
+      "id": "content-operations",
+      "name": "内容运营",
+      "positionIds": [
+        "bilibili-operator"
+      ]
+    }
+  ]
+}

@@ -66,9 +66,9 @@ community.json                        工作流维护的角色讨论映射
 
 ## 职位模板
 
-在 `positions/registry.json` 登记职位的稳定标识、名称、简介和源文件。来源记录包含上游仓库名、完整提交号和该版本的文件路径。提示词正文写在 `positions/<职位标识>.md`，内容以职责、判断依据、交付物和请示条件为主。改编模板时随附来源项目的许可证及署名。
+在 `positions/registry.json` 的 `categories` 中登记分类标识和名称。在 `positions` 中登记每份职位的稳定标识、名称、简介、`categoryId` 和源文件。`categoryId` 对应已登记的分类，每份职位归入一个分类。来源记录包含上游仓库名、完整提交号和该版本的文件路径。提示词正文写在 `positions/<职位标识>.md`，内容以职责、判断依据、交付物和请示条件为主。改编模板时随附来源项目的许可证及署名。
 
-`npm run build` 生成 [职位清单](positions/catalog.json)，其中的 `path` 是相对仓库根目录的提示词路径，`sha256` 是正文文件的 SHA-256（文件校验摘要）。修改登记或正文后重新构建，再运行 `npm run check` 核对生成结果。
+`npm run build` 生成 [职位清单](positions/catalog.json)，其中的 `path` 是相对仓库根目录的提示词路径，`sha256` 是正文文件的 SHA-256（文件校验摘要）。构建同时生成 [分类索引](positions/categories.json)，将分类和所属职位标识关联起来。修改登记或正文后重新构建，再运行 `npm run check` 核对两份生成清单。
 
 ## 构建与验证
 

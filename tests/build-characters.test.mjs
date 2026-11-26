@@ -85,16 +85,21 @@ test("职位清单为正文生成摘要并校验来源与过期文件", async ()
         path: "product/product-manager.md",
       },
     };
+    const category = { id: "product", name: "产品" };
+    const registeredEntry = { ...entry, categoryId: category.id };
+    const registry = {
+      version: 1,
+      license,
+      categories: [category],
+      positions: [registeredEntry],
+    };
     const path = "positions/product-manager.md";
     const catalogPath = join(root, "positions/catalog.json");
     await mkdir(join(root, "positions"));
     await writeFile(join(root, license), "Fixture license.\n");
     await writeFile(join(root, path), prompt);
     const registryPath = join(root, "positions/registry.json");
-    await writeFile(
-      registryPath,
-      JSON.stringify({ version: 1, license, positions: [entry] }),
-    );
+    await writeFile(registryPath, JSON.stringify(registry));
 
     await buildCharacters(root);
     await buildCharacters(root, true);
@@ -106,6 +111,18 @@ test("职位清单为正文生成摘要并校验来源与过期文件", async ()
         { ...entry, path, sha256: createHash("sha256").update(prompt).digest("hex") },
       ],
     });
+    const categoriesPath = join(root, "positions/categories.json");
+    const categories = await readFile(categoriesPath, "utf8");
+    assert.deepEqual(JSON.parse(categories), {
+      version: 1,
+      categories: [{ ...category, positionIds: [entry.id] }],
+    });
+    await writeFile(categoriesPath, "{}");
+    await assert.rejects(
+      buildCharacters(root, true),
+      /生成文件过期：positions\/categories\.json/,
+    );
+    await buildCharacters(root);
     const characterCatalog = JSON.parse(
       await readFile(join(root, "catalog.json"), "utf8"),
     );
@@ -120,10 +137,24 @@ test("职位清单为正文生成摘要并校验来源与过期文件", async ()
 
     await writeFile(
       registryPath,
-      JSON.stringify({ version: 1, license, positions: [entry, entry] }),
+      JSON.stringify({ ...registry, positions: [registeredEntry, registeredEntry] }),
     );
     await assert.rejects(buildCharacters(root), /职位条目无效或标识重复/);
+    await writeFile(
+      registryPath,
+      JSON.stringify({
+        ...registry,
+        positions: [{ ...entry, categoryId: "unknown" }],
+      }),
+    );
+    await assert.rejects(buildCharacters(root), /职位分类未登记/);
+    await writeFile(
+      registryPath,
+      JSON.stringify({ ...registry, categories: [category, category] }),
+    );
+    await assert.rejects(buildCharacters(root), /职位分类无效或标识重复/);
     assert.equal(await readFile(catalogPath, "utf8"), catalog);
+    assert.equal(await readFile(categoriesPath, "utf8"), categories);
   } finally {
     await cleanup(root);
   }
