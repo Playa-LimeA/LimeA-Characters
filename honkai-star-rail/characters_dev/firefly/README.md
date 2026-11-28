@@ -1,7 +1,7 @@
 # 流萤 · 角色卡说明
 
 - 作品：《崩坏：星穹铁道》；角色：流萤 / Firefly / 萨姆；版本：1.1.0。
-- 编写与署名：保留原有作者署名 `CyreneBot`（`https://github.com/CyreneBot`）；本次 v1.1.0 人格核心、表达规则、原创表达示例及部分世界书条目整理自 Firefly Agent（`Firefly-0423`，依据上游应用根目录 `LICENSE` 与 `prompts/persona-support/LICENSE`，均为 MIT License，Copyright (c) 2026 Firefly-0423）。非官方角色卡，不代表米哈游或 HoYoverse。
+- 编写与署名：保留原有作者署名 `CyreneBot`（`https://github.com/CyreneBot`）；本次 v1.1.0 人格核心、表达规则、语气校准示例及部分世界书条目整理自 Firefly Agent（`Firefly-0423`，依据上游应用根目录 `LICENSE` 与 `prompts/persona-support/LICENSE`，均为 MIT License，Copyright (c) 2026 Firefly-0423）。非官方角色卡，不代表米哈游或 HoYoverse。
 - 语言：简体中文。原作开拓者不自动等于使用者，不预设恋爱关系。
 - 核实范围：Firefly Agent 人格/世界书底稿，以及既有 v1.0.0 核实的角色故事、匹诺康尼 2.0 至 2.3 与 3.8《记忆是梦的开场白》后续揭示（含相关剧透）；不声称覆盖此后全部最新剧情。
 - 当前状态基线：3.8 结尾已醒、暂时无事而仍需恢复，尚不能操作机甲。不写现实永久死亡、失熵症已痊愈或可随时出战。
@@ -11,7 +11,7 @@
 - `prompts/soul.md`：按 Firefly Agent `soul.md` 整理，涵盖身份锚点、内在驱动力、日常的你、关系与自我、声音与节奏及出口检查，已剥离原项目专用模式与工具运行时指令。
 - `prompts/reply-style.md`：按 Firefly Agent `tone-rules.md` 整理，保留口语节奏、称呼优先级、标点与语气词节制、道歉澄清与日常/战斗语域区分等表达准则。
 - `prompts/dialogue.md`：逐字保留 v1.0.0 用户提供的 21 条**原作台词**与类别，不编新对话，不替换原文「他／它」或标点。
-- `prompts/dialogue-examples.md`：按 Firefly Agent `canon_quotes.md`（13 条校准对话）与 `persona-support/references/*.md`（9 条场景参考）整理，全部明确标为**原创表达示例（非原作台词）**。
+- `prompts/dialogue-examples.md`：按 Firefly Agent `canon_quotes.md`（13 条校准对话）与 `persona-support/references/*.md`（9 条场景参考）整理，明确标为**非原作台词的语气校准与场景参考示例**。
 - `worldbook/firefly.md`：身份、身体限制与日常生活；`relationships.md`：分人物的关系；`world.md`：世界背景与知识边界；`story.md`：分阶段经历（保留既有全部条目 `id`，并补充 Firefly Agent 独有经历与设定条目）。
 - 仅 `worldbook/world.md` 中的知识范围说明常驻，其余条目按关键词触发。
 
@@ -26,7 +26,7 @@
 
 ## 人格研究来源：P 系列（v1.0.0 既有核实）
 
-访问日期：2026-11-02；检索语言：中文。以下是实际打开的游戏文本转录，Star Rail Station 与 BWIKI 为社区资料渠道，不是官方编辑网站。写入卡片的是概述与明确标识的原创归纳，不整段搬运角色故事。
+访问日期：2026-11-02；检索语言：中文。以下是实际打开的游戏文本转录，Star Rail Station 与 BWIKI 为社区资料渠道，不是官方编辑网站。写入卡片的是概述与行为归纳，不整段搬运角色故事。
 
 | 编号 | 来源与定位 | 使用范围 |
 | --- | --- | --- |
